@@ -8,9 +8,20 @@ export default function About() {
               Who are we?
             </h2>
             <p class="mb-8 font-light lg:text-xl">
-              Deliver great service experiences fast - without the complexity of
-              traditional ITSM solutions. Accelerate critical development work,
-              eliminate toil, and deploy changes with ease.
+              We are a group of 2nd year students at{" "}
+              <span className="text-emerald-400 font-semibold">
+                PES University
+              </span>{" "}
+              who want to make the process of acquiring IoT components, easy and
+              affordable.
+              <br />
+              <br />
+              We have experienced the challenges acquiring the right materials
+              and know that it can be quite exhausting.
+              <br />
+              Our mission is to make this process easier for everyone else out
+              there so that students can focus on creating innovative projects
+              without going through the background hassle.
             </p>
             <ul
               role="list"
