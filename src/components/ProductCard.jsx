@@ -4,11 +4,10 @@ export default function ProductCard(props) {
   available
     ? (availableClass = "bg-green-50 p-0.5 border-green-500 text-green-700")
     : (availableClass = "bg-red-50 p-0.5 border-red-500 text-red-700");
-  console.log(props.productPrice);
   return (
-    <div className="w-60 my-6 mx-4 bg-white border-2 border-emerald-400 shadow rounded-md">
+    <div className="w-60 my-6 mx-4  bg-white border-2 border-emerald-400 shadow rounded-md">
       <div
-        className="h-32 w-full bg-gray-200 flex flex-col justify-between p-4 bg-cover bg-center rounded-t-md"
+        className="h-32 w-full flex flex-col justify-between p-4 bg-cover bg-center rounded-t-md"
         style={{
           backgroundImage: `url(${props.productImage})`,
           filter: `grayscale(${available ? 0 : 1})`,
@@ -21,21 +20,26 @@ export default function ProductCard(props) {
           >
             {available ? "Available" : "Unavailable"}
           </span>
-          <span className="uppercase text-xs mx-2 bg-green-200 p-0.5 border-green-500 border rounded text-green-700 font-medium select-none">
-            Rs. {props.productPrice}
-          </span>
         </div>
       </div>
       <div className="p-4 flex flex-col items-start">
         <h1 className="text-gray-800 text-md text-center mt-1 font-semibold">
           {props.productName}
         </h1>
+        {props.simpleName && (
+          <h1 className="text-gray-700 font-bold text-xs text-center">
+            {props.simpleName}
+          </h1>
+        )}
         <p className="text-sm text-gray-700">{props.productDetails}</p>
         <p className="text-center text-sm text-red-800 mt-1">
           Market Price{" "}
           <strike>
             <strong>Rs.{props.marketPrice}</strong>
           </strike>
+        </p>
+        <p className="text-center text-sm text-green-800 mt-1">
+          Our Price <strong>Rs.{props.productPrice}</strong>
         </p>
         <div className="inline-flex items-center mt-2"></div>
       </div>

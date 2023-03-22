@@ -24,27 +24,13 @@ function App() {
   useEffect(() => {
     fetchData();
   }, []);
-  const renderCatalogue = () => {
-    if (products) {
-      return Object.entries(products).map((item) => {
-        return (
-          <Catalogue
-            key={item[0]}
-            title={item[0]}
-            id={item[0]}
-            productData={item[1]}
-          />
-        );
-      });
-    }
-  };
   return (
     <div className="App">
       <Header />
       <Hero />
       <SubHeader />
       <About />
-      {renderCatalogue()}
+      <Catalogue productData={products} />
       <FAQ />
       <Contact />
       <Footer />

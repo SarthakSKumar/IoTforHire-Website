@@ -3,21 +3,20 @@ import ProductCard from "./ProductCard.jsx";
 export default function Catalogue(props) {
   const renderProductCard = () => {
     if (props.productData) {
-      return Object.entries(props.productData).map(
-        ([productName, productData]) => {
-          return (
-            <ProductCard
-              key={productName}
-              available={productData.available}
-              productImage={`${productData.productImage}`}
-              productName={productName}
-              productPrice={productData.productPrice}
-              marketPrice={productData.marketPrice}
-              productDetails={productData.productDetails}
-            />
-          );
-        }
-      );
+      return props.productData.map((product) => {
+        return (
+          <ProductCard
+            key={product.productName}
+            available={product.Availability}
+            productImage={`${product.productImage}`}
+            productName={product.productName}
+            productPrice={product.productPrice}
+            marketPrice={product.marketPrice}
+            productDetails={product.Description}
+            simpleName={product.simpleName}
+          />
+        );
+      });
     }
   };
   return (
