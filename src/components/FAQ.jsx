@@ -10,50 +10,40 @@ export default function FAQ() {
         </p>
         <div className="flex my-10 items-center justify-around flex-wrap">
           <div className="border-2 my-4 w-80 h-50 p-4 border-emerald-400 rounded-md">
-            <h3 className="text-md text-gray-200 font-bold">
+            <h3 className="text-md text-gray-700 dark:text-gray-200 font-bold">
               How much does it cost to rent an IoT device?
             </h3>
-            <p className="text-gray-400 text-sm">
-              The cost of renting an IoT device varies depending on the type of
-              device and the length of the rental period. Please contact us for
-              a quote.
-            </p>
-          </div>
-          <div className="border-2 my-4 w-80 p-4 border-emerald-400 rounded-md">
-            <h3 className="text-md text-gray-200 font-bold">
-              How much does it cost to rent an IoT device?
-            </h3>
-            <p className="text-gray-400 text-sm">
+            <p className="dark:text-gray-400 text-gray-600 text-sm">
               The cost of renting an IoT device varies depending on the type of
               device and the length of the rental period. Please contact us for
               a quote.
             </p>
           </div>
           <div className="border-2 my-4 w-80 h-50 p-4 border-emerald-400 rounded-md">
-            <h3 className="text-md text-gray-200 font-bold">
+            <h3 className="text-md text-gray-700 dark:text-gray-200 font-bold">
               How much does it cost to rent an IoT device?
             </h3>
-            <p className="text-gray-400 text-sm">
+            <p className="dark:text-gray-400 text-gray-600 text-sm">
               The cost of renting an IoT device varies depending on the type of
               device and the length of the rental period. Please contact us for
               a quote.
             </p>
           </div>
           <div className="border-2 my-4 w-80 h-50 p-4 border-emerald-400 rounded-md">
-            <h3 className="text-md text-gray-200 font-bold">
+            <h3 className="text-md text-gray-700 dark:text-gray-200 font-bold">
               How much does it cost to rent an IoT device?
             </h3>
-            <p className="text-gray-400 text-sm">
+            <p className="dark:text-gray-400 text-gray-600 text-sm">
               The cost of renting an IoT device varies depending on the type of
               device and the length of the rental period. Please contact us for
               a quote.
             </p>
           </div>
           <div className="border-2 my-4 w-80 h-50 p-4 border-emerald-400 rounded-md">
-            <h3 className="text-md text-gray-200 font-bold">
+            <h3 className="text-md text-gray-700 dark:text-gray-200 font-bold">
               How much does it cost to rent an IoT device?
             </h3>
-            <p className="text-gray-400 text-sm">
+            <p className="dark:text-gray-400 text-gray-600 text-sm">
               The cost of renting an IoT device varies depending on the type of
               device and the length of the rental period. Please contact us for
               a quote.
@@ -61,10 +51,10 @@ export default function FAQ() {
           </div>
 
           <div className="border-2 my-4 w-80 h-50 p-4 border-emerald-400 rounded-md">
-            <h3 className="text-md text-gray-200 font-bold">
+            <h3 className="text-md text-gray-700 dark:text-gray-200 font-bold">
               How much does it cost to rent an IoT device?
             </h3>
-            <p className="text-gray-400 text-sm">
+            <p className="dark:text-gray-400 text-gray-600 text-sm">
               The cost of renting an IoT device varies depending on the type of
               device and the length of the rental period. Please contact us for
               a quote.

@@ -4,8 +4,13 @@ export default function SubHeader() {
       <div className="max-w-screen-xl px-4 pb-6 mx-auto lg:pb-16">
         <div className="w-full text-center">
           <h1 className="lg:text-2xl md:text-xl text-lg text-gray-500 font-bold">
-            <span className="text-emerald-400">IoT Components</span> Rentals for
-            Students of <span className="text-orange-300">PES University</span>
+            <span className="dark:text-emerald-400 text-emerald-500">
+              IoT Components
+            </span>{" "}
+            Rentals for Students of{" "}
+            <span className="dark:text-orange-300 text-orange-400">
+              PES University
+            </span>
           </h1>
         </div>
       </div>

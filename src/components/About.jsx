@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section className="bg-gray-50 dark:bg-gray-800">
+    <section id="about" className="bg-gray-100 dark:bg-gray-800">
       <div className="max-w-screen-xl px-4 py-4 mx-auto space-y-12 lg:space-y-20 lg:py-16 lg:px-6">
         <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
           <div className="text-gray-500 sm:text-lg dark:text-gray-400">
@@ -41,7 +41,7 @@ export default function About() {
                   ></path>
                 </svg>
                 <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                  Continuous integration and deployment
+                  Why settle with one, when you can try them all?
                 </span>
               </li>
               <li className="flex space-x-3">
@@ -58,7 +58,7 @@ export default function About() {
                   ></path>
                 </svg>
                 <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                  Development workflow
+                  Get creative with the wide range of components!
                 </span>
               </li>
               <li className="flex space-x-3">
@@ -75,14 +75,11 @@ export default function About() {
                   ></path>
                 </svg>
                 <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                  Knowledge management
+                  No need to store and preserve components when you
+                  are done with them.
                 </span>
               </li>
             </ul>
-            <p className="mb-8 font-light lg:text-xl">
-              Deliver great service experiences fast - without the complexity of
-              traditional ITSM solutions.
-            </p>
           </div>
           <img
             className="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex"

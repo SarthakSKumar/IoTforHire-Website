@@ -10,7 +10,7 @@ export default function Hero() {
             Building digital <br />
             products & brands.
           </h1>
-          <p className="max-w-2xl mb-6 font-light text-gray-400 lg:mb-8 text-md md:text-xl my-10 lg:text-xl dark:text-gray-400">
+          <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 text-md md:text-xl my-10 lg:text-xl dark:text-gray-400">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
             impedit? Quas neque alias quasi maiores est. Velit totam sint
             voluptates. Totam et accusantium consequuntur modi perferendis
