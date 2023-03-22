@@ -10,8 +10,8 @@ export default function Contact() {
           <span className="text-emerald-400 font-semibold">Bookings</span> and{" "}
           <span className="text-emerald-400 font-semibold">Orders</span>
         </p>
-        <div className="flex my-10 md:flex-row flex-col justify-around items-center">
-          <div className="flex flex-col border-2 mx-2 my-3 flex-wrap justify-evenly items-center h-[12rem] w-[24rem] md:h-[15rem] md:w-[30rem]">
+        <div className="flex  my-10 md:flex-row flex-col justify-around items-center">
+          <div className="flex rounded-lg bg-gray-800 flex-col mx-2 my-3 flex-wrap justify-evenly items-center h-[12rem] w-[24rem] md:h-[15rem] md:w-[30rem]">
             <h3 className="text-xl font-semibold text-gray-200 px-5 md:py-8 py-6 text-center">
               Bookings Open. Get your components now!
             </h3>
@@ -19,7 +19,7 @@ export default function Contact() {
               Order Now <i className="uil uil-favorite"></i>
             </button>
           </div>
-          <div className="flex border-2 p-4 mx-2 flex-wrap flex-col justify-evenly h-[15rem] w-[24rem] md:h-[15rem] md:w-[30rem]">
+          <div className="flex rounded-lg bg-gray-800 p-4 mx-2 flex-wrap flex-col justify-evenly h-[15rem] w-[24rem] md:h-[15rem] md:w-[30rem]">
             <div className="flex">
               <i className="md:text-5xl text-3xl pr-3 text-emerald-400 uil uil-location-point"></i>
               <span className=" text-gray-400 text-md font-semibold">

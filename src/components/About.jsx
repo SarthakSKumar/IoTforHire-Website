@@ -76,7 +76,7 @@ export default function About() {
                   ></path>
                 </svg>
                 <span className="text-md font-medium leading-tight text-gray-900 dark:text-white">
-                  Use and return policy. Simple and sound!
+                  Don't waste money buying IoT stuff you'll use only once!
                 </span>
               </li>
             </ul>

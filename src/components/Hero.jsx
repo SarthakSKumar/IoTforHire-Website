@@ -11,10 +11,13 @@ export default function Hero() {
             Tech on Demand
           </h1>
           <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 text-md md:text-xl my-10 lg:text-xl dark:text-gray-400">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
-            impedit? Quas neque alias quasi maiores est. Velit totam sint
-            voluptates. Totam et accusantium consequuntur modi perferendis
-            aperiam possimus, enim blanditiis.
+            We have a wide range of{" "}
+            <span className="text-emerald-500 font-semibold">IoT</span>{" "}
+            components from sensors and Arduino boards to wireless modules and
+            actuators required to ensure that your{" "}
+            <span className="text-emerald-500 font-semibold">MPCA project</span>{" "}
+            is a success. Choose us to get hold of your project materials today
+            and take advantage of our steal prices.
           </p>
           <div className="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
             <a

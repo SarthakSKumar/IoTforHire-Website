@@ -90,13 +90,13 @@
     "productDetails": "A heart rate sensor for Arduino is a device used to measure heart rate and pulse rate for health monitoring and fitness applications."
   },
   {
-    "productName": "Joysticks 2",
+    "productName": "Joysticks",
     "simpleName": "",
     "marketPrice": 370,
     "productPrice": 219,
     "productImage": "https://www.exploringarduino.com/wp-content/uploads/2013/06/joystick.jpg",
     "Availability": "TRUE",
-    "productDetails": "Joysticks 2 for Arduino are input devices that provide two analog axes to control motion or direction in Arduino projects."
+    "productDetails": "Joysticks for Arduino are input devices that provide two analog axes to control motion or direction in Arduino projects."
   },
   {
     "productName": "RFID sensors card and tag",
@@ -135,7 +135,7 @@
     "productDetails": "HC-05 is a Bluetooth module that enables wireless communication between an Arduino and other devices, such as smartphones or laptops."
   },
   {
-    "productName": "Buck and boost convert 2 each",
+    "productName": "Buck and boost converter",
     "simpleName": "DC TO DC Converter",
     "marketPrice": 450,
     "productPrice": 289,
@@ -189,7 +189,7 @@
     "productDetails": "A PIR (Passive Infrared) sensor can be used with Arduino to detect motion in a room or other space."
   },
   {
-    "productName": "Relay modules 3",
+    "productName": "Relay modules",
     "simpleName": "Acts as switch",
     "marketPrice": 800,
     "productPrice": 799,
@@ -198,7 +198,7 @@
     "productDetails": "Relay modules can be used with Arduino to switch high-voltage AC or DC devices, such as lights or motors, using low-voltage signals."
   },
   {
-    "productName": "Lcd display 1",
+    "productName": "Lcd display",
     "simpleName": "Display the sensor values",
     "marketPrice": 260,
     "productPrice": 159,
@@ -225,7 +225,7 @@
     "productDetails": "A solar panel can be used with Arduino to generate power from sunlight, providing a sustainable and portable power source."
   },
   {
-    "productName": "Li ion cells and batteries 6 to 7",
+    "productName": "Li ion cells and batteries",
     "simpleName": "",
     "marketPrice": 2100,
     "productPrice": 2099,
@@ -369,7 +369,7 @@
     "productDetails": "The 9V battery connector on an Arduino board provides power to the board through a barrel jack or Vin pin."
   },
   {
-    "productName": "Male to Female jumper(10)",
+    "productName": "Male to Female jumper",
     "simpleName": "",
     "marketPrice": 30,
     "productPrice": 25,
@@ -378,7 +378,7 @@
     "productDetails": "Jumper wires are used to connect components on a breadboard to an Arduino board, allowing for prototyping and experimentation"
   },
   {
-    "productName": "Female to Female jumper(10)",
+    "productName": "Female to Female jumper",
     "simpleName": "",
     "marketPrice": 30,
     "productPrice": 25,
@@ -387,7 +387,7 @@
     "productDetails": "Jumper wires are used to connect components on a breadboard to an Arduino board, allowing for prototyping and experimentation"
   },
   {
-    "productName": "Male to Male jumper  (10)",
+    "productName": "Male to Male jumper  ",
     "simpleName": "",
     "marketPrice": 30,
     "productPrice": 25,
