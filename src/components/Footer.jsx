@@ -51,7 +51,7 @@ export default function Footer() {
             href="#"
             className="flex items-center justify-center mb-5 text-4xl font-semibold text-gray-900 dark:text-white"
           >
-            IoT<span className="text-emerald-400">for</span>Rent
+            IoT<span className="text-emerald-400">for</span>Hire
           </a>
           <span className="block text-sm text-center text-gray-500 dark:text-gray-400">
             © 2023. All Rights Reserved

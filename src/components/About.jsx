@@ -83,7 +83,7 @@ export default function About() {
           </div>
           <img
             className="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex"
-            src="./images/feature-1.png"
+            src="./assets/img/about.svg"
             alt="dashboard feature image"
           />
         </div>

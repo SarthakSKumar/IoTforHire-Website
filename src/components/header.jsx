@@ -11,7 +11,7 @@ export default function Header() {
         <div className="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
           <a href="#" className="flex items-center">
             <span className="self-center text-2xl mr-4 font-semibold whitespace-nowrap dark:text-white text-black">
-              IoT<span className="text-emerald-500">for</span>Rent
+              IoT<span className="text-emerald-500">for</span>Hire
             </span>
           </a>
           <div className="flex items-center lg:order-2">
