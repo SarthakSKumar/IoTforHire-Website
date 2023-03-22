@@ -4,28 +4,44 @@ export default function Footer() {
       <div className="max-w-screen-xl p-4 py-3 mx-auto lg:py-8 md:p-8 lg:p-10">
         <div className="w-full flex md:px-24 md:justify-between flex-wrap justify-around">
           <div>
-            <a className="mb-2 text-sm font-semibold text-gray-900 lg:text-md mx-4 dark:text-white hover:text-emerald-500">
+            <a
+              href="#home"
+              className="mb-2 text-sm font-semibold text-gray-900 mx-4 hover:text-emerald-500  dark:text-white"
+            >
+              Home
+            </a>
+          </div>
+          <div>
+            <a
+              href=""
+              className="mb-2 text-sm font-semibold text-gray-900 lg:text-md mx-4 dark:text-white hover:text-emerald-500"
+            >
               Terms and Conditions
             </a>
           </div>
           <div>
-            <a className="mb-2 text-sm font-semibold text-gray-900 mx-4 hover:text-emerald-500  dark:text-white">
+            <a
+              href="#contact"
+              className="mb-2 text-sm font-semibold text-gray-900 mx-4 hover:text-emerald-500  dark:text-white"
+            >
               Contact
             </a>
           </div>
           <div>
-            <a className="mb-2 text-sm font-semibold text-gray-900 mx-4 hover:text-emerald-500  dark:text-white">
+            <a
+              href="#catalogue"
+              className="mb-2 text-sm font-semibold text-gray-900 mx-4 hover:text-emerald-500  dark:text-white"
+            >
               Product Catalogue
             </a>
           </div>
+
           <div>
-            <a className="mb-2 text-sm font-semibold text-gray-900 mx-4 hover:text-emerald-500  dark:text-white">
-              Company
-            </a>
-          </div>
-          <div>
-            <a className="mb-2 text-sm font-semibold text-gray-900 mx-4 hover:text-emerald-500  dark:text-white">
-              Download
+            <a
+              href="#home"
+              className="mb-2 text-sm font-semibold text-gray-900 mx-4 hover:text-emerald-500  dark:text-white"
+            >
+              Partner with Us
             </a>
           </div>
         </div>

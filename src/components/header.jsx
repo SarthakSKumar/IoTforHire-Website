@@ -10,7 +10,7 @@ export default function Header() {
       >
         <div className="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
           <a href="#" className="flex items-center">
-            <span className="self-center text-2xl mr-8 font-semibold whitespace-nowrap dark:text-white text-black">
+            <span className="self-center text-2xl mr-4 font-semibold whitespace-nowrap dark:text-white text-black">
               IoT<span className="text-emerald-500">for</span>Rent
             </span>
           </a>
@@ -88,14 +88,6 @@ export default function Header() {
                   FAQ's
                 </a>
               </li>
-              <li>
-                <a
-                  href="#team"
-                  className="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-emerald-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
-                >
-                  Team
-                </a>
-              </li>
 
               <li>
                 <a
@@ -103,6 +95,14 @@ export default function Header() {
                   className="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-emerald-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
                 >
                   Contact
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#contact"
+                  className="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-emerald-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
+                >
+                  Terms & Conditions
                 </a>
               </li>
             </ul>

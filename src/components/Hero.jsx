@@ -6,9 +6,9 @@ export default function Hero() {
           <h1 className="max-w-2xl mb-4 text-5xl font-bold leading-none tracking-tight md:text-7xl xl:text-7xl dark:text-white">
             IoT<span className="text-emerald-500">for</span>Rent
           </h1>
-          <h1 className="max-w-2xl mb-4 text-3xl font-bold leading-none tracking-tight md:text-5xl xl:text-6xl  dark:text-gray-200">
-            Building digital <br />
-            products & brands.
+          <h1 className="max-w-2xl mb-4 text-3xl font-bold leading-none tracking-tight md:text-5xl xl:text-6xl  dark:text-gray-300">
+            Empowering <span className="text-orange-400">PES</span>ites with
+            Tech on Demand
           </h1>
           <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 text-md md:text-xl my-10 lg:text-xl dark:text-gray-400">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,

@@ -4,11 +4,11 @@ export default function About() {
       <div className="max-w-screen-xl px-4 py-4 mx-auto space-y-12 lg:space-y-20 lg:py-16 lg:px-6">
         <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
           <div className="text-gray-500 sm:text-lg dark:text-gray-400">
-            <h2 className="mb-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white">
+            <h2 className="mb-4 text-3xl tracking-tight text-gray-900 font-semibold dark:text-white">
               Who are we?
             </h2>
-            <p className="mb-8 font-light lg:text-xl">
-              We are a group of 2nd year students at{" "}
+            <p className="mb-8 lg:text-lg">
+              We are a group of students at{" "}
               <span className="text-emerald-400 font-semibold">
                 PES University
               </span>{" "}
@@ -75,8 +75,7 @@ export default function About() {
                   ></path>
                 </svg>
                 <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                  No need to store and preserve components when you
-                  are done with them.
+                  Use and return policy
                 </span>
               </li>
             </ul>
