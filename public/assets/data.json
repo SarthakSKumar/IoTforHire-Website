@@ -1,0 +1,11 @@
+{
+  "Munchies": {
+    "Kurkure": {
+      "productPrice": 10,
+      "available": true,
+      "productImage": "./img/Food/Munchies/kurkure.jpg",
+      "productDetails": "I am kurkure",
+      "marketPrice": "20"
+    }
+  }
+}

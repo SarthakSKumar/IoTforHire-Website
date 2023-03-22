@@ -16,12 +16,12 @@ export default function Contact() {
               Bookings Open. Get your components now!
             </h3>
             <button className="text-lg font-semibold text-gray-800 p-3 bg-emerald-500 rounded-md">
-              Order Now <i class="uil uil-favorite"></i>
+              Order Now <i className="uil uil-favorite"></i>
             </button>
           </div>
           <div className="flex border-2 p-4 mx-2 w-1/2 border-white flex-wrap justify-start">
             <div className="flex">
-              <i class="text-6xl text-emerald-400 uil uil-location-point"></i>
+              <i className="text-6xl text-emerald-400 uil uil-location-point"></i>
               <span className=" text-gray-400 text-md font-semibold">
                 <span className="text-lg text-gray-300">
                   PES University Electronic City Campus
@@ -31,14 +31,14 @@ export default function Contact() {
               </span>
             </div>
             <div className="flex">
-              <i class="text-5xl text-emerald-400 uil uil-envelope-check"></i>
+              <i className="text-5xl text-emerald-400 uil uil-envelope-check"></i>
 
               <span className="text-md font-semibold text-gray-300">
                 sskworld9742@gmail.com
               </span>
             </div>
             <div className="flex">
-              <i class="text-5xl text-emerald-400 uil uil-phone"></i>
+              <i className="text-5xl text-emerald-400 uil uil-phone"></i>
               <span className="text-md mx-2 font-semibold text-gray-300">
                 +91 97429 13699 <br /> +91 96639 28924
               </span>

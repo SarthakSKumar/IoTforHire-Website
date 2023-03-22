@@ -1,6 +1,25 @@
 import ProductCard from "./ProductCard.jsx";
 
-export default function Catalogue() {
+export default function Catalogue(props) {
+  const renderProductCard = () => {
+    if (props.productData) {
+      return Object.entries(props.productData).map(
+        ([productName, productData]) => {
+          return (
+            <ProductCard
+              key={productName}
+              available={productData.available}
+              productImage={`${productData.productImage}`}
+              productName={productName}
+              productPrice={productData.productPrice}
+              marketPrice={productData.marketPrice}
+              productDetails={productData.productDetails}
+            />
+          );
+        }
+      );
+    }
+  };
   return (
     <section id="catalogue" className="bg-white dark:bg-gray-900">
       <div className="max-w-screen-xl px-4 py-14 pb-8 mx-auto lg:pb-16">
@@ -13,12 +32,7 @@ export default function Catalogue() {
           selection of IoT components and start your project with us today!
         </p>
         <div className="flex my-10 justify-around flex-wrap">
-          <ProductCard />
-          <ProductCard />
-          <ProductCard />
-          <ProductCard />
-          <ProductCard />
-          <ProductCard />
+          {renderProductCard()}
         </div>
       </div>
     </section>
