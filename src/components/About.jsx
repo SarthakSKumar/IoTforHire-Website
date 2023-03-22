@@ -40,8 +40,9 @@ export default function About() {
                     clip-rule="evenodd"
                   ></path>
                 </svg>
-                <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                  Why settle with one, when you can try them all?
+                <span className=" text-md font-medium leading-tight text-gray-900 dark:text-white">
+                  Save time. Don't go to SP Road! Rent components directly from
+                  us, on campus.
                 </span>
               </li>
               <li className="flex space-x-3">
@@ -57,8 +58,8 @@ export default function About() {
                     clip-rule="evenodd"
                   ></path>
                 </svg>
-                <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                  Get creative with the wide range of components!
+                <span className="text-md font-medium leading-tight text-gray-900 dark:text-white">
+                  100% Working components. Tried, Tested and Trusted!
                 </span>
               </li>
               <li className="flex space-x-3">
@@ -74,8 +75,8 @@ export default function About() {
                     clip-rule="evenodd"
                   ></path>
                 </svg>
-                <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                  Use and return policy
+                <span className="text-md font-medium leading-tight text-gray-900 dark:text-white">
+                  Use and return policy. Simple and sound!
                 </span>
               </li>
             </ul>

@@ -14,7 +14,7 @@ export default function Hero() {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
             impedit? Quas neque alias quasi maiores est. Velit totam sint
             voluptates. Totam et accusantium consequuntur modi perferendis
-            aperiam possimus, enim blanditiis. .
+            aperiam possimus, enim blanditiis.
           </p>
           <div className="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
             <a

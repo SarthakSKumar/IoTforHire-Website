@@ -10,7 +10,12 @@ export default function SubHeader() {
             Rentals for Students of{" "}
             <span className="dark:text-orange-300 text-orange-400">
               PES University
-            </span>
+            </span>{" "}
+            |{" "}
+            <span className="dark:text-purple-300 text-purple-400">
+              100% Working
+            </span>{" "}
+            and Trusted Components
           </h1>
         </div>
       </div>
