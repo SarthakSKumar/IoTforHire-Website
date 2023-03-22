@@ -31,14 +31,14 @@ export default function Contact() {
               </span>
             </div>
             <div className="flex">
-              <i className="md:text-4xl text-3xl pr-3  text-emerald-400 uil uil-envelope-check"></i>
+              <i className="md:text-4xl md:px-1 md:pb-1 text-3xl pr-3  text-emerald-400 uil uil-envelope-check"></i>
 
-              <span className="text-md font-semibold text-gray-300">
+              <span className="text-md mx-2 font-semibold text-gray-300">
                 sskworld9742@gmail.com
               </span>
             </div>
             <div className="flex">
-              <i className="md:text-4xl text-3xl pr-2 text-emerald-400 uil uil-phone"></i>
+              <i className="md:text-4xl md:px-1 md:pt-1 text-3xl pr-2 text-emerald-400 uil uil-phone"></i>
               <span className="text-md mx-2 font-semibold text-gray-300">
                 +91 97429 13699 <br /> +91 96639 28924
               </span>
