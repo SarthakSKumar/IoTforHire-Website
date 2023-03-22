@@ -13,18 +13,18 @@ export default function Contact() {
                     <span className='text-emerald-400 font-semibold'>Bookings</span> and{" "}
                     <span className='text-emerald-400 font-semibold'>Orders</span>
                 </p>
-                <div className='flex my-10 justify-around'>
-                    <div className='flex border-2 mx-2 border-white flex-wrap justify-center'>
-                        <h3 className='text-xl font-semibold text-gray-200'>
+                <div className='flex my-10 md:flex-row flex-col justify-around items-center'>
+                    <div className='flex flex-col border-2 mx-2 my-3 border-white flex-wrap justify-evenly items-center h-[12rem] w-[24rem] md:h-[15rem] md:w-[30rem]'>
+                        <h3 className='text-xl font-semibold text-gray-200 px-5 md:py-8 py-6 text-center'>
                             Bookings Open. Get your components now!
                         </h3>
-                        <button className='text-lg font-semibold text-gray-800 p-3 bg-emerald-500 rounded-md'>
+                        <button className=' w-max text-lg font-semibold text-gray-800 p-3 my-4 lg:my-7 bg-emerald-500 rounded-md'>
                             Order Now <i class='uil uil-favorite'></i>
                         </button>
                     </div>
-                    <div className='flex border-2 p-4 mx-2 w-1/2 border-white flex-wrap justify-start'>
+                    <div className='flex border-2 p-4 mx-2  border-white flex-wrap flex-col justify-evenly h-[15rem] w-[24rem] md:h-[15rem] md:w-[30rem]'>
                         <div className='flex'>
-                            <i class='text-6xl text-emerald-400 uil uil-location-point'></i>
+                            <i class='md:text-5xl text-3xl pr-3 text-emerald-400 uil uil-location-point'></i>
                             <span className=' text-gray-400 text-md font-semibold'>
                                 <span className='text-lg text-gray-300'>
                                     PES University Electronic City Campus
@@ -34,14 +34,14 @@ export default function Contact() {
                             </span>
                         </div>
                         <div className='flex'>
-                            <i class='text-5xl text-emerald-400 uil uil-envelope-check'></i>
+                            <i class='md:text-4xl text-3xl pr-3  text-emerald-400 uil uil-envelope-check'></i>
 
                             <span className='text-md font-semibold text-gray-300'>
                                 sskworld9742@gmail.com
                             </span>
                         </div>
                         <div className='flex'>
-                            <i class='text-5xl text-emerald-400 uil uil-phone'></i>
+                            <i class='md:text-4xl text-3xl pr-2 text-emerald-400 uil uil-phone'></i>
                             <span className='text-md mx-2 font-semibold text-gray-300'>
                                 +91 97429 13699 <br /> +91 96639 28924
                             </span>
