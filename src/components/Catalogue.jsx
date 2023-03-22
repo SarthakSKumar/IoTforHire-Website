@@ -12,7 +12,7 @@ export default function Catalogue(props) {
             productName={product.productName}
             productPrice={product.productPrice}
             marketPrice={product.marketPrice}
-            productDetails={product.Description}
+            productDetails={product.productDetails}
             simpleName={product.simpleName}
           />
         );
