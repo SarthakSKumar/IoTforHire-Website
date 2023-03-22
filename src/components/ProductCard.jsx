@@ -1,6 +1,6 @@
 export default function ProductCard() {
   return (
-    <div className="w-60 my-4 dark:bg-white bg-gray-900 shadow rounded-md">
+    <div className="w-60 m-6 dark:bg-white bg-gray-900 shadow rounded-md">
       <div
         className="h-36 w-full bg-gray-200 flex flex-col justify-between p-4 bg-cover bg-center rounded-t-md"
         style={{

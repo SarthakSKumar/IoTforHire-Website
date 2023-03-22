@@ -1,13 +1,13 @@
 export default function About() {
   return (
-    <section class="bg-gray-50 dark:bg-gray-800">
-      <div class="max-w-screen-xl px-4 py-4 mx-auto space-y-12 lg:space-y-20 lg:py-16 lg:px-6">
-        <div class="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
-          <div class="text-gray-500 sm:text-lg dark:text-gray-400">
-            <h2 class="mb-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white">
+    <section className="bg-gray-50 dark:bg-gray-800">
+      <div className="max-w-screen-xl px-4 py-4 mx-auto space-y-12 lg:space-y-20 lg:py-16 lg:px-6">
+        <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
+          <div className="text-gray-500 sm:text-lg dark:text-gray-400">
+            <h2 className="mb-4 text-3xl font-bold tracking-tight text-gray-900 dark:text-white">
               Who are we?
             </h2>
-            <p class="mb-8 font-light lg:text-xl">
+            <p className="mb-8 font-light lg:text-xl">
               We are a group of 2nd year students at{" "}
               <span className="text-emerald-400 font-semibold">
                 PES University

@@ -5,6 +5,7 @@ import SubHeader from "./components/SubHeader.jsx";
 import Catalogue from "./components/Catalogue.jsx";
 import About from "./components/About.jsx";
 import FAQ from "./components/FAQ.jsx";
+import Footer from "./components/Footer.jsx";
 import "./App.css";
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <About />
       <Catalogue />
       <FAQ />
+      <Footer />
     </div>
   );
 }
