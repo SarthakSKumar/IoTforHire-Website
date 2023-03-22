@@ -1,8 +1,8 @@
 export default function ProductCard() {
   return (
-    <div className="w-60 my-4 dark:bg-white bg-gray-900 shadow rounded-md border-2 border-emerald-500">
+    <div className="w-60 my-4 dark:bg-white bg-gray-900 shadow rounded-md">
       <div
-        className="h-36 w-full bg-gray-200 flex flex-col justify-between p-4 bg-cover bg-center border-emerald-500 rounded-t-md border-b-2"
+        className="h-36 w-full bg-gray-200 flex flex-col justify-between p-4 bg-cover bg-center rounded-t-md"
         style={{
           backgroundImage:
             "url(https://images.pexels.com/photos/7989741/pexels-photo-7989741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)",

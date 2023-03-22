@@ -3,6 +3,7 @@ import Header from "./components/Header.jsx";
 import Hero from "./components/Hero.jsx";
 import SubHeader from "./components/SubHeader.jsx";
 import Catalogue from "./components/Catalogue.jsx";
+import About from "./components/About.jsx";
 import "./App.css";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Hero />
       <SubHeader />
+      <About />
       <Catalogue />
     </div>
   );
