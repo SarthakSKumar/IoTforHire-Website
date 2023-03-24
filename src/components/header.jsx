@@ -99,7 +99,7 @@ export default function Header() {
               </li>
               <li>
                 <a
-                  href="#contact"
+                  href="https://tin-saturnalia-a7c.notion.site/Terms-Conditions-6994c1a0695f406ea187faca35d7d6b5"
                   className="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-emerald-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
                 >
                   Terms & Conditions
