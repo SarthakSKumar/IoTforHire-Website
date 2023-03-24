@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section className="bg-white dark:bg-gray-900 ">
-      <div className="grid max-w-screen-xl px-4 pb-2 mx-auto xl:gap-0 pt-0 lg:pt-8 lg:pb-8 lg:grid-cols-12">
+      <div className="grid max-w-screen-xl px-4 pb-2 mx-auto xl:gap-0 pt-0 lg:pt-4 lg:pb-6 lg:grid-cols-12">
         <div className="mr-auto place-self-center lg:col-span-7 my-12">
           <h1 className="max-w-2xl mb-4 text-5xl font-bold leading-none tracking-tight md:text-7xl xl:text-7xl dark:text-white">
             IoT<span className="text-emerald-500">for</span>Hire
@@ -10,7 +10,7 @@ export default function Hero() {
             Empowering <span className="text-orange-400">PES</span>ites with
             Tech on Demand
           </h1>
-          <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 text-md md:text-xl my-10 lg:text-xl dark:text-gray-400">
+          <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 text-md md:text-xl my-10 lg:text-xl dark:text-gray-300">
             We have a wide range of{" "}
             <span className="text-emerald-500 font-semibold">IoT</span>{" "}
             components from sensors and Arduino boards to wireless modules and
@@ -22,13 +22,14 @@ export default function Hero() {
           <div className="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
             <a
               href="https://forms.gle/moQ1MxVZfwoHhVrL9"
-              className="inline-flex items-center justify-center w-full px-6 py-4 bg-emerald-500 mr-2 text-md font-medium text-gray-900 text-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-emerald-600 dark:text-white dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+              target="_blank"
+              className="inline-flex items-center justify-center w-full px-6 py-3 bg-emerald-500 mr-2 text-md font-medium text-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-emerald-600 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-emerald-500 dark:text-white dark:border-gray-600 dark:hover:text-white dark:hover:bg-emerald-700"
             >
               Order Now
             </a>
             <a
               href="#contact"
-              className="inline-flex text-md items-center justify-center w-full px-6 py-4 font-medium text-center text-gray-900 border border-gray-200 rounded-lg sm:w-auto hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800"
+              className="inline-flex text-md items-center justify-center w-full px-6 py-3 font-medium text-center text-gray-900 border border-gray-200 rounded-lg sm:w-auto hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800"
             >
               Contact Us
             </a>

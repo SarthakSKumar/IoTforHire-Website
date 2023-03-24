@@ -3,7 +3,7 @@ export default function About() {
     <section id="about" className="bg-gray-100 dark:bg-gray-800">
       <div className="max-w-screen-xl px-4 py-4 mx-auto space-y-12 lg:space-y-20 lg:py-16 lg:px-6">
         <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
-          <div className="text-gray-500 sm:text-lg dark:text-gray-400">
+          <div className="text-gray-600 sm:text-lg dark:text-gray-300">
             <h2 className="mb-4 text-3xl tracking-tight text-gray-900 font-semibold dark:text-white">
               Who are we?
             </h2>

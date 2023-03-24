@@ -53,9 +53,6 @@ export default function Footer() {
           >
             IoT<span className="text-emerald-400">for</span>Hire
           </a>
-          <span className="block text-sm text-center text-gray-500 dark:text-gray-400">
-            © 2023. All Rights Reserved
-          </span>
         </div>
       </div>
     </footer>
