@@ -1,497 +1,812 @@
 [
   {
-    "productName": "433 MHz module",
-    "simpleName": "RF Transmitter and an RF Receiver",
+    "productName": "NFR Module Transmitter/Reciever",
+    "simpleName": "",
+    "marketPrice": 180,
+    "productPrice": "",
+    "productImage": "NA",
+    "Availability": "TRUE",
+    "productDetails": "A wireless communication module capable of transmitting and receiving data over long distances."
+  },
+  {
+    "productName": "433 MHz Transmitter/Reciever",
+    "simpleName": "",
     "marketPrice": 120,
-    "productPrice": 69,
+    "productPrice": "",
     "productImage": "https://ph-live-02.slatic.net/original/50c653e61b971ec2eff126b8c5b693d8.jpg",
     "Availability": "TRUE",
-    "productDetails": "433 MHz module is a wireless transmitter/receiver that allows communication between Arduino boards and other devices, such as sensors."
+    "productDetails": "A low-cost wireless communication module commonly used for remote control applications."
   },
   {
-    "productName": "Servo motor",
-    "simpleName": "movement controller",
+    "productName": "Servo Motor 90g",
+    "simpleName": "",
     "marketPrice": 170,
-    "productPrice": 109,
+    "productPrice": "",
     "productImage": "https://rcmadness.com/wp-content/uploads/2016/08/savsh1250mg-2-1.jpg",
     "Availability": "TRUE",
-    "productDetails": "A servo for Arduino is a motor controller that allows precise control and positioning of a servo motor in Arduino projects."
+    "productDetails": "A small motor with high precision and torque, commonly used in robotics and RC vehicles."
   },
   {
-    "productName": "Servo tester",
-    "simpleName": "Servo Tester",
-    "marketPrice": 200,
-    "productPrice": 129,
-    "productImage": "https://tse2.mm.bing.net/th?id=OIP.XTIIwXWHkCUPD2qJfL-MJAHaE8&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "A servo tester for Arduino is a device used to test and calibrate servo motors, allowing for precise control and positioning."
-  },
-  {
-    "productName": "Esp32 cam",
-    "simpleName": "wireless video streaming and wifi",
+    "productName": "ESP32 Camera",
+    "simpleName": "",
     "marketPrice": 1240,
-    "productPrice": 719,
+    "productPrice": "",
     "productImage": "https://tse1.mm.bing.net/th?id=OIP.NyEl413CaBXkx1GCV_2xHQHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "ESP CAM for Arduino is a camera module based on the ESP32 chip that provides wireless connectivity and can be easily integrated with Arduino projects."
+    "productDetails": "A camera module designed to work with the ESP32 microcontroller board."
   },
   {
-    "productName": "esp 32",
-    "simpleName": "wifi module",
+    "productName": "ESP32 Board",
+    "simpleName": "",
     "marketPrice": 600,
-    "productPrice": 349,
+    "productPrice": "",
     "productImage": "https://diyusthad.com/wp-content/uploads/2019/07/esp32_sim800l-2.jpg",
     "Availability": "TRUE",
-    "productDetails": "ESP32 for Arduino is a microcontroller based on the ESP32 chip that provides Wi-Fi and Bluetooth connectivity and is commonly used in IoT projects."
+    "productDetails": "A powerful microcontroller board with built-in Wi-Fi and Bluetooth capabilities."
   },
   {
-    "productName": "esp8266",
-    "simpleName": "wifi module",
+    "productName": "ESP8266 Board",
+    "simpleName": "",
     "marketPrice": 420,
-    "productPrice": 419,
+    "productPrice": "",
     "productImage": "https://5.imimg.com/data5/CP/EY/RT/SELLER-1968074/esp-8266-cp2102-wifi-module-500x500.jpg",
     "Availability": "TRUE",
-    "productDetails": "ESP8266 for Arduino is a low-cost Wi-Fi microchip that can be easily programmed with the Arduino IDE for IoT projects."
+    "productDetails": "A low-cost microcontroller board with built-in Wi-Fi capabilities."
   },
   {
-    "productName": "Kk2 board",
-    "simpleName": "",
-    "marketPrice": 5930,
-    "productPrice": 5929,
-    "productImage": "https://cdn3.botland.store/62681-large_default/flight-controller-kk215-multi-rotor-lcd-mpu-6050-accelerometer-and-gyroscope.jpg",
-    "Availability": "TRUE",
-    "productDetails": "The KK2 board is a flight controller board used for quadcopter and other multirotor projects that can be programmed using the Arduino IDE."
-  },
-  {
-    "productName": "Cc3d board",
+    "productName": "CC3D Board",
     "simpleName": "",
     "marketPrice": 990,
-    "productPrice": 649,
+    "productPrice": "",
     "productImage": "http://img.banggood.com/thumb/water/oaupload/banggood/images/45/4B/95522a0f-55fa-407c-a18d-efc8c7b71515.jpg",
     "Availability": "TRUE",
-    "productDetails": "CC3D board is a flight controller board used for quadcopter and other multirotor projects that can be programmed using the Arduino IDE."
+    "productDetails": "A flight controller board used in RC aircraft for stabilizing and controlling flight."
   },
   {
-    "productName": "Battery tester",
+    "productName": "Heart Rate Sensor",
     "simpleName": "",
-    "marketPrice": "2,400.00",
-    "productPrice": "2,399.00",
-    "productImage": "https://tse1.mm.bing.net/th?id=OIP.ZIeyDGFUZ9w0Us1xMIPRAgHaHm&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "A battery tester for Arduino is a device that measures the voltage and current of a battery to determine its capacity and health."
-  },
-  {
-    "productName": "Heart rate sensor",
-    "simpleName": "Pulse Rate testing",
     "marketPrice": 300,
-    "productPrice": 299,
+    "productPrice": "",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.rOFSoR70K2k0ez14HrUbBAHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "A heart rate sensor for Arduino is a device used to measure heart rate and pulse rate for health monitoring and fitness applications."
+    "productDetails": "A sensor that measures the user's heart rate and outputs the data to a microcontroller."
   },
   {
-    "productName": "Joysticks",
+    "productName": "Joystick",
     "simpleName": "",
     "marketPrice": 370,
-    "productPrice": 219,
+    "productPrice": "",
     "productImage": "https://www.exploringarduino.com/wp-content/uploads/2013/06/joystick.jpg",
     "Availability": "TRUE",
-    "productDetails": "Joysticks for Arduino are input devices that provide two analog axes to control motion or direction in Arduino projects."
+    "productDetails": "An input device used to control movement and direction in electronic devices."
   },
   {
-    "productName": "RFID sensors card and tag",
-    "simpleName": "RFID card reader and tag",
+    "productName": "Adafruit Motor Driver Shield",
+    "simpleName": "",
     "marketPrice": 250,
-    "productPrice": 159,
+    "productPrice": "",
+    "productImage": "https://images-na.ssl-images-amazon.com/images/I/71lW7ePZ2qL._AC_SL1006_.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A motor control board designed to work with Arduino boards."
+  },
+  {
+    "productName": "RFID Sensor with Card and Tag",
+    "simpleName": "",
+    "marketPrice": 250,
+    "productPrice": "",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.CrwlLgTexgy0nXnSfLBYMwHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "RFID (Radio Frequency Identification) sensors use electromagnetic fields to identify and track tags and cards. Arduino can read and write data from them."
+    "productDetails": "A sensor that uses radio waves to detect and read data from RFID tags."
   },
   {
-    "productName": "Big lipo",
-    "simpleName": "lithium polymer battery",
-    "marketPrice": 130,
-    "productPrice": 129,
-    "productImage": "https://tse2.mm.bing.net/th?id=OIP.W1-z-KVwYoK_b8uq5u4zdgHaHa&pid=Api&P=0",
+    "productName": "Potentiometers",
+    "simpleName": "",
+    "marketPrice": 10,
+    "productPrice": "",
+    "productImage": "https://tse2.mm.bing.net/th?id=OIP.zHALvBnXVmE3pcu_-epgbwHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "A big LiPo (Lithium Polymer) battery can power an Arduino for extended periods, providing high energy density and rechargeability."
+    "productDetails": "Variable resistors used to control and adjust voltage or current in electronic circuits."
   },
   {
-    "productName": "Small lipo",
-    "simpleName": "lithium polymer battery",
-    "marketPrice": 130,
-    "productPrice": 129,
-    "productImage": "https://tse2.mm.bing.net/th?id=OIP.bUm5jfYHmjK-jB6eOyjYEQHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "A small LiPo (Lithium Polymer) battery can power an Arduino for short periods, providing portability and rechargeability. It requires voltage regulation."
-  },
-  {
-    "productName": "Hc05",
-    "simpleName": "Bluetooth module",
+    "productName": "HC05 Bluetooth Module",
+    "simpleName": "",
     "marketPrice": 400,
-    "productPrice": 399,
+    "productPrice": "",
     "productImage": "https://marocproduits.com/storage/2019/08/module-bluetooth-serie-hc05-768x768.jpg",
     "Availability": "TRUE",
-    "productDetails": "HC-05 is a Bluetooth module that enables wireless communication between an Arduino and other devices, such as smartphones or laptops."
+    "productDetails": "A Bluetooth communication module commonly used in wireless control applications."
   },
   {
-    "productName": "Buck and boost converter",
-    "simpleName": "DC TO DC Converter",
+    "productName": "Buck and Boost Converter",
+    "simpleName": "",
     "marketPrice": 450,
-    "productPrice": 289,
+    "productPrice": "",
     "productImage": "https://hallroad.org/images/watermarked/thumbnails/500/500/detailed/25/buck-boost_convertor_3__x1s9-wl.jpg",
     "Availability": "TRUE",
-    "productDetails": "Buck and boost converters are used with Arduino to step down or step up DC voltages, respectively, for efficient power management."
+    "productDetails": "A power converter used to step-up or step-down voltage in electronic circuits."
   },
   {
-    "productName": "Power distribution board for bread board",
+    "productName": "Power Distributor (BreadBoard)",
     "simpleName": "",
     "marketPrice": 250,
-    "productPrice": 159,
-    "productImage": "https://cdn.shopify.com/s/files/1/2285/0583/products/s-l1600_20_284_29_b1aad73b-5097-4fd7-bcda-929e50fdaedb_1024x1024.jpg?v=1530920763",
+    "productPrice": "",
+    "productImage": "https://5.imimg.com/data5/SR/JZ/RD/SELLER-80355495/large-breadboard-800-points--500x500.jpg",
     "Availability": "TRUE",
-    "productDetails": "A power distribution board for breadboard Arduino provides regulated power supply to multiple components on a breadboard, simplifying prototyping."
+    "productDetails": "A board used to distribute power to various components in a circuit."
   },
   {
-    "productName": "Dht 22",
-    "simpleName": "Temperature and Humidity sensor",
-    "marketPrice": 330,
-    "productPrice": 229,
-    "productImage": "https://tse1.mm.bing.net/th?id=OIP.qEQXxJVQRFXrbeq65hF3kwHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "DHT22 is a digital temperature and humidity sensor that can be used with Arduino to measure ambient temperature and humidity levels."
-  },
-  {
-    "productName": "Dht 11",
-    "simpleName": "Temperature and Humidity sensor",
+    "productName": "DHT11",
+    "simpleName": "",
     "marketPrice": 200,
-    "productPrice": 139,
+    "productPrice": "",
     "productImage": "https://tse4.mm.bing.net/th?id=OIP.mwe2zsoUeMsCCCoDf8MuggHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "DHT11 is a low-cost digital temperature and humidity sensor that can be used with Arduino for basic temperature and humidity measurements."
+    "productDetails": "A digital temperature and humidity sensor commonly used in HVAC and weather monitoring systems."
   },
   {
-    "productName": "Hygrometor sensor",
-    "simpleName": "soil moisture sensor",
-    "marketPrice": 150,
-    "productPrice": 149,
-    "productImage": "https://i2.wp.com/www.electroniclinic.com/wp-content/uploads/2020/02/resistive-soil-moisture-sensor.jpg?ssl=1",
-    "Availability": "TRUE",
-    "productDetails": "Soil moisture sensors can be used with Arduino to measure the moisture content of soil and determine when plants need watering."
-  },
-  {
-    "productName": "Pir sensor",
-    "simpleName": "Passive Infrared(movement sensor)",
-    "marketPrice": 200,
-    "productPrice": 139,
-    "productImage": "https://www.eleccircuit.com/wp-content/uploads/2011/06/Infrared-PIR-Human-Motion-Sensor-Detector-Modules.jpg",
-    "Availability": "TRUE",
-    "productDetails": "A PIR (Passive Infrared) sensor can be used with Arduino to detect motion in a room or other space."
-  },
-  {
-    "productName": "Relay modules",
-    "simpleName": "Acts as switch",
-    "marketPrice": 800,
-    "productPrice": 799,
-    "productImage": "https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/2B/1A/46b7423a-b8ad-4dde-a8d0-4dba3d11a660.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Relay modules can be used with Arduino to switch high-voltage AC or DC devices, such as lights or motors, using low-voltage signals."
-  },
-  {
-    "productName": "Lcd display",
-    "simpleName": "Display the sensor values",
-    "marketPrice": 260,
-    "productPrice": 159,
-    "productImage": "https://i1.wp.com/www.mytechnocare.com/wp-content/uploads/2016/08/1-LCD-16x2-162-2x16-Alphanumeric-DisplayJHD162A-MY-TechnoCare-www.mytechnocare.com-.jpg?fit=800%2C601&ssl=1",
-    "Availability": "TRUE",
-    "productDetails": "An LCD (Liquid Crystal Display) can be used with Arduino to display text, graphics, and other data in a range of sizes and resolutions."
-  },
-  {
-    "productName": "220 ac to Arduino power brick",
-    "simpleName": "",
-    "marketPrice": 260,
-    "productPrice": 259,
-    "productImage": "https://www.sinoning.com/wp-content/uploads/2020/04/16267-7ltpz9.jpg",
-    "Availability": "TRUE",
-    "productDetails": "A 220V AC to Arduino power supply can convert AC voltage to DC voltage suitable for powering an Arduino microcontroller."
-  },
-  {
-    "productName": "Solar panel",
+    "productName": "Soil Moisture Sensor (Capacitive)",
     "simpleName": "",
     "marketPrice": 140,
-    "productPrice": 139,
-    "productImage": "https://tse2.mm.bing.net/th?id=OIP.xn7nAdC3OcLl3_1oBhbx2gHaE8&pid=Api&P=0",
+    "productPrice": "",
+    "productImage": "https://i2.wp.com/www.electroniclinic.com/wp-content/uploads/2020/02/resistive-soil-moisture-sensor.jpg?ssl=1",
     "Availability": "TRUE",
-    "productDetails": "A solar panel can be used with Arduino to generate power from sunlight, providing a sustainable and portable power source."
+    "productDetails": "A sensor that measures the moisture content of soil for irrigation and plant growth monitoring."
   },
   {
-    "productName": "Li ion cells and batteries",
+    "productName": "PIR Sensor",
     "simpleName": "",
-    "marketPrice": 2100,
-    "productPrice": 2099,
-    "productImage": "https://5.imimg.com/data5/TI/IZ/JJ/SELLER-2933207/18650-li-ion-battery-cell-500x500.jpg",
+    "marketPrice": 200,
+    "productPrice": "",
+    "productImage": "https://www.eleccircuit.com/wp-content/uploads/2011/06/Infrared-PIR-Human-Motion-Sensor-Detector-Modules.jpg",
     "Availability": "TRUE",
-    "productDetails": "Li-ion (Lithium-ion) cells and batteries can be used with Arduino to provide compact, high-capacity, and rechargeable power for portable projects."
+    "productDetails": "A motion sensor that detects infrared radiation emitted by moving objects."
+  },
+  {
+    "productName": "16X2 LCD Display",
+    "simpleName": "",
+    "marketPrice": 200,
+    "productPrice": "",
+    "productImage": "https://i1.wp.com/www.mytechnocare.com/wp-content/uploads/2016/08/1-LCD-16x2-162-2x16-Alphanumeric-DisplayJHD162A-MY-TechnoCare-www.mytechnocare.com-.jpg?fit=800%2C601&ssl=1",
+    "Availability": "TRUE",
+    "productDetails": "A standard character LCD display used to display text and numbers in electronic devices."
+  },
+  {
+    "productName": "Switches",
+    "simpleName": "",
+    "marketPrice": 20,
+    "productPrice": "",
+    "productImage": "https://tse3.mm.bing.net/th?id=OIP.LwgNg0WSiXn_qm8t7p6s4QHaHa&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "A small OLED display module designed to work with the ESP32 microcontroller board."
+  },
+  {
+    "productName": "220AC to Arduino Power Brick",
+    "simpleName": "",
+    "marketPrice": 260,
+    "productPrice": "",
+    "productImage": "https://tse3.mm.bing.net/th?id=OIP.qU3y33EJXhUjV4ftHzwt4AHaHa&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "A power supply unit that converts AC voltage to DC voltage suitable for powering Arduino boards."
+  },
+  {
+    "productName": "Car Chassis",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://tse2.mm.bing.net/th?id=OIP.ug508VAHq2_7hbcEvZX4aQHaHa&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "A framework used to mount various components of a car, such as motors, wheels, and electronics."
+  },
+  {
+    "productName": "Solar Panel",
+    "simpleName": "",
+    "marketPrice": 140,
+    "productPrice": "",
+    "productImage": "https://tse2.mm.bing.net/th?id=OIP.xn7nAdC3OcLl3_1oBhbx2gHaE8&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "A panel that converts sunlight into electrical energy, commonly used to power electronic devices."
+  },
+  {
+    "productName": "BO Motor Single Shaft L Shape",
+    "simpleName": "",
+    "marketPrice": 200,
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/300-rpm-single-shaft-l-shaped-bo-motor-400x400.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A small motor with a single shaft, commonly used in robotics and RC vehicles."
+  },
+  {
+    "productName": "Breadboard Medium",
+    "simpleName": "",
+    "marketPrice": 100,
+    "productPrice": "",
+    "productImage": "https://5.imimg.com/data5/SR/JZ/RD/SELLER-80355495/large-breadboard-800-points--500x500.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A board used for prototyping and testing electronic circuits without the need for soldering."
+  },
+  {
+    "productName": "Breadboard Small",
+    "simpleName": "",
+    "marketPrice": 50,
+    "productPrice": "",
+    "productImage": "https://potentiallabs.com/cart/image/cache/catalog/2021/Breadboard-Medium%20size-2-550x550h.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A smaller version of the breadboard used for prototyping and testing electronic circuits."
   },
   {
     "productName": "Arduino Uno",
-    "simpleName": "micro controller",
+    "simpleName": "",
     "marketPrice": 800,
-    "productPrice": 499,
+    "productPrice": "",
     "productImage": "https://i0.wp.com/www.rytronics.in/wp-content/uploads/2023/01/Arduino-Uno-R3.webp?fit=800%2C750&ssl=1",
     "Availability": "TRUE",
-    "productDetails": "Arduino Uno is a popular microcontroller board based on the ATmega328P processor, with digital and analog inputs and outputs."
+    "productDetails": "A microcontroller board based on the ATmega328P microcontroller, commonly used in electronic projects."
   },
   {
-    "productName": "ESP8266 NODEMCU",
-    "simpleName": "Wifi module",
-    "marketPrice": 420,
-    "productPrice": 419,
-    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/617T2JKnxiL._SX522_.jpg",
+    "productName": "Arduino Uno Mini Board",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://tse1.mm.bing.net/th?id=OIP.VKmL6Y_El0_wT_YuC0vT8QHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "ESP8266 NodeMCU is a microcontroller board with built-in WiFi, used with Arduino to create IoT projects and connect to the internet."
+    "productDetails": "A smaller version of the Arduino Uno board designed for space-constrained projects."
   },
   {
-    "productName": "ESP32 CAM",
-    "simpleName": "wireless video streaming with wifi",
-    "marketPrice": "1,240.00",
-    "productPrice": 899,
-    "productImage": "https://m.media-amazon.com/images/I/71TywKH9ORL._AC_SL1500_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "ESP32-CAM is a microcontroller board with built-in WiFi and camera, used with Arduino to create IoT projects with image and video capabilities."
-  },
-  {
-    "productName": "Breadboard medium",
+    "productName": "ESP Board Cable",
     "simpleName": "",
     "marketPrice": 100,
-    "productPrice": 69,
-    "productImage": "https://potentiallabs.com/cart/image/cache/catalog/2021/Breadboard-Medium%20size-2-550x550h.jpg",
+    "productPrice": "",
+    "productImage": "https://tse3.mm.bing.net/th?id=OIP.V8nrROMgctvLVDl80df3FgHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "A medium-sized breadboard can be used with Arduino for prototyping circuits and testing components, without the need for soldering."
+    "productDetails": "A cable used to connect an ESP board to a computer or other electronic device."
   },
   {
-    "productName": "Breadboard large",
+    "productName": "Arduino Uno Cable",
+    "simpleName": "",
+    "marketPrice": 100,
+    "productPrice": "",
+    "productImage": "https://tse4.mm.bing.net/th?id=OIP.Es3wPRIFS1nP1nnJoC-J-QHaHa&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "A cable used to connect an Arduino Uno board to a computer or other electronic device."
+  },
+  {
+    "productName": "Breadboard Large",
     "simpleName": "",
     "marketPrice": 150,
-    "productPrice": 25,
-    "productImage": "https://5.imimg.com/data5/SR/JZ/RD/SELLER-80355495/large-breadboard-800-points--500x500.jpg",
+    "productPrice": "",
+    "productImage": "https://www.cairnselectronics.com.au/assets/alt_1/TOL9004.jpg?20210603215642",
     "Availability": "TRUE",
-    "productDetails": "A large breadboard can be used with Arduino for prototyping more complex circuits and testing multiple components simultaneously, without soldering."
+    "productDetails": "A larger version of the breadboard used for prototyping and testing electronic circuits."
   },
   {
-    "productName": "DC Motor",
+    "productName": "BO Motor Double Shaft",
     "simpleName": "",
-    "marketPrice": 30,
-    "productPrice": 25,
-    "productImage": "https://www.mybotic.com.my/image/mybotic/image/cache/data/all_product_images/product-3649/Dajpe8UK1651291108-420x420.jpg",
+    "marketPrice": 200,
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/100-rpm-single-shaft-bo-motor-straight-1-800x800.jpg",
     "Availability": "TRUE",
-    "productDetails": "DC motors can be used with Arduino to convert electrical energy into mechanical energy, enabling control of speed and direction."
+    "productDetails": "A small motor with two shafts, commonly used in robotics and RC vehicles."
   },
   {
-    "productName": "Car Full set(rover complete set)",
-    "simpleName": "car chasis with 2 motors and 3 tyres",
-    "marketPrice": 500,
-    "productPrice": 319,
-    "productImage": "https://www.sunrobotics.in/web/image/product.product/28322/image_1024/%5B2112%5D%20Cligo%20Smart%202WD%20Wireless%20DIY%20Robotics%20Car%20Kit?unique=b94fff8",
-    "Availability": "TRUE",
-    "productDetails": "A car full set, or rover complete set, with Arduino typically includes a chassis, wheels, motors, sensors, and other components for building a mobile robot."
-  },
-  {
-    "productName": "Battery holder 4 battery",
+    "productName": "Car Chasis 3 wheels",
     "simpleName": "",
-    "marketPrice": 110,
-    "productPrice": 69,
-    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61+ZCv1CG2L._SX679_.jpg",
+    "marketPrice": 400,
+    "productPrice": "",
+    "productImage": "https://tse2.mm.bing.net/th?id=OIP.gzwlwszU4l6fhipLrvC41QHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": ""
+    "productDetails": "A framework with three wheels used to build small cars and robots."
   },
   {
-    "productName": "Battery holder 2 battery",
+    "productName": "Battery Holder 4 Battery",
     "simpleName": "",
     "marketPrice": 100,
-    "productPrice": 69,
+    "productPrice": "",
+    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61+ZCv1CG2L._SX679_.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A holder that can accommodate four batteries to power electronic devices."
+  },
+  {
+    "productName": "Battery Holder 2 Battery",
+    "simpleName": "",
+    "marketPrice": 70,
+    "productPrice": "",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/31dK71WFtfL.jpg",
     "Availability": "TRUE",
-    "productDetails": "Battery holder for 2 batteries is a device that provides power to an Arduino board using 2 batteries as a power source."
+    "productDetails": "A holder that can accommodate two batteries to power electronic devices."
   },
   {
-    "productName": "OV7670 Camera module",
-    "simpleName": "Camera for arduino",
+    "productName": "OV7670 Camera Module",
+    "simpleName": "",
     "marketPrice": 320,
-    "productPrice": 219,
+    "productPrice": "",
     "productImage": "https://www.srkelectronics.in/wp-content/uploads/2020/04/OV7670-Camera-Module-srkelectronics.in_.jpg",
     "Availability": "TRUE",
-    "productDetails": "OV7670 is a popular camera module for Arduino with a resolution of 640x480 and can capture both images and videos."
+    "productDetails": "A small camera module commonly used in robotics and surveillance systems."
   },
   {
-    "productName": "L293 MOTOR DRIVER",
-    "simpleName": "To connect motors with arduino and control them",
+    "productName": "L293 Motor Driver Shield",
+    "simpleName": "",
     "marketPrice": 250,
-    "productPrice": 159,
+    "productPrice": "",
     "productImage": "https://www.techtonics.in/image/cache/catalog/Images022023/tech1708-10-550x550.jpg",
     "Availability": "TRUE",
-    "productDetails": "L293 is a popular motor driver IC used with Arduino to control DC and stepper motors with up to 36V and 600mA."
+    "productDetails": "A motor control board designed to work with Arduino boards."
   },
   {
     "productName": "LM25965 DC-DC CONVERTER",
     "simpleName": "",
     "marketPrice": 90,
-    "productPrice": 69,
+    "productPrice": "",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51wrWoOq9qL._SX522_.jpghttps://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51wrWoOq9qL._SX522_.jpg",
     "Availability": "TRUE",
-    "productDetails": "LM25965 is a DC-DC step-down converter used to power Arduino projects by efficiently converting higher voltage to 5V or 3.3V."
+    "productDetails": "A power converter used to step-down voltage in electronic circuits."
   },
   {
-    "productName": "L298 HBRIDGE DC MOTOR DRIVER",
-    "simpleName": "To connect motors with arduino and control them",
+    "productName": "L298N H Bridge DC MOTOR DRIVER",
+    "simpleName": "",
     "marketPrice": 250,
-    "productPrice": 159,
+    "productPrice": "",
     "productImage": "https://i0.wp.com/surtrtech.com/wp-content/uploads/2018/01/L298N-Motor-Drive-Controller-Board-Module-dual-H-Bridge-DC-Stepper-Motor-Driver-5.jpg?resize=1024%2C1024&ssl=1",
     "Availability": "TRUE",
-    "productDetails": "L298 H-bridge is a DC motor driver used with Arduino to control the speed and direction of two DC motors."
+    "productDetails": "A motor control board designed to work with DC motors."
   },
   {
     "productName": "LED",
     "simpleName": "",
-    "marketPrice": 130,
-    "productPrice": 129,
+    "marketPrice": "NA",
+    "productPrice": "",
     "productImage": "https://m.media-amazon.com/images/I/61WThZBg3AL._AC_SX679_.jpg",
     "Availability": "TRUE",
-    "productDetails": "LEDs (Light Emitting Diodes) are commonly used with Arduino boards to display output or as indicators. Code controls LED behavior."
+    "productDetails": "A light source that emits light when an electric current passes through it, commonly used as an indicator."
   },
   {
-    "productName": "9V Battery connector",
+    "productName": "9V Battery Connector",
     "simpleName": "",
     "marketPrice": 10,
-    "productPrice": 10,
+    "productPrice": "",
     "productImage": "https://images-cdn.ubuy.co.in/6356a48f50b07d74541e555a-9v-battery-connector-10-pcs-t-type-9.jpg",
     "Availability": "TRUE",
-    "productDetails": "The 9V battery connector on an Arduino board provides power to the board through a barrel jack or Vin pin."
+    "productDetails": "A connector used to connect a 9V battery to electronic devices."
   },
   {
-    "productName": "Male to Female jumper",
+    "productName": "Male to Male Jumper Wires",
     "simpleName": "",
-    "marketPrice": 30,
-    "productPrice": 25,
-    "productImage": "https://tse4.mm.bing.net/th?id=OIP.ZsnjHYDC-o8zKVfVzDZC9gHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Jumper wires are used to connect components on a breadboard to an Arduino board, allowing for prototyping and experimentation"
-  },
-  {
-    "productName": "Female to Female jumper",
-    "simpleName": "",
-    "marketPrice": 30,
-    "productPrice": 25,
-    "productImage": "https://tse1.mm.bing.net/th?id=OIP.bXbEGYs9sz0ysoFXx4p82AHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Jumper wires are used to connect components on a breadboard to an Arduino board, allowing for prototyping and experimentation"
-  },
-  {
-    "productName": "Male to Male jumper  ",
-    "simpleName": "",
-    "marketPrice": 30,
-    "productPrice": 25,
+    "marketPrice": "NA",
+    "productPrice": "",
     "productImage": "https://mifraelectronics.com/wp-content/uploads/2022/03/cables.jpg",
     "Availability": "TRUE",
-    "productDetails": "Jumper wires are used to connect components on a breadboard to an Arduino board, allowing for prototyping and experimentation"
+    "productDetails": "Wires with male connectors on both ends used to connect electronic components."
   },
   {
-    "productName": "resistor 1ohm",
+    "productName": "Male to Female Jumper Wires",
     "simpleName": "",
-    "marketPrice": 2,
-    "productPrice": 2,
-    "productImage": "https://zyme.in/image/cache/catalog/imagepreview/15pcs-1-ohm-resistor-1-4w-carbon-film-resistor-222-1000x1000.jpg",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://tse4.mm.bing.net/th?id=OIP.ZsnjHYDC-o8zKVfVzDZC9gHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "A 1Kohmn resistor in an Arduino circuit can be used for current limiting, pull-up or pull-down, and voltage divider applications."
+    "productDetails": "Wires with male connectors on one end and female connectors on the other end used to connect electronic components."
   },
   {
-    "productName": "resistor 100Kohm",
+    "productName": "Female to Female Jumper Wires",
     "simpleName": "",
-    "marketPrice": 2,
-    "productPrice": 2,
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://tse1.mm.bing.net/th?id=OIP.bXbEGYs9sz0ysoFXx4p82AHaHa&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "Wires with female connectors on both ends used to connect electronic components."
+  },
+  {
+    "productName": "Resistors",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51-kjBFDkYL._SX522_.jpg",
     "Availability": "TRUE",
-    "productDetails": "A 100Kohm resistor in an Arduino circuit can be used for current limiting, pull-up or pull-down, and voltage divider applications."
+    "productDetails": "Passive electronic components used to resist the flow of electric current in a circuit."
   },
   {
-    "productName": "resistor 40kohm",
+    "productName": "Water Pump",
     "simpleName": "",
-    "marketPrice": 2,
-    "productPrice": 2,
-    "productImage": "https://i0.wp.com/www.exploringarduino.com/wp-content/uploads/2013/05/10k-ohm-resistor-350x350.jpg?ssl=1",
-    "Availability": "TRUE",
-    "productDetails": "A 40Kohm resistor in an Arduino circuit can be used for current limiting, pull-up or pull-down, and voltage divider applications."
-  },
-  {
-    "productName": "resistor 10kohm",
-    "simpleName": "",
-    "marketPrice": 3,
-    "productPrice": 3,
-    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61ItbRIgusL._SX522_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "A 10Kohm resistor in an Arduino circuit can be used for current limiting, pull-up or pull-down, and voltage divider applications."
-  },
-  {
-    "productName": "FTDI USB to TTL Serial Converter",
-    "simpleName": "connect esp32 cam with arduino",
-    "marketPrice": 350,
-    "productPrice": 219,
-    "productImage": "https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/4A/1F/72fb76d9-d3ad-45a4-9323-e9924a3d7805.jpg",
-    "Availability": "TRUE",
-    "productDetails": "FTDI USB to TTL Serial Converter is a popular choice to connect Arduino to a computer for programming and data exchange."
-  },
-  {
-    "productName": "mini waterpump",
-    "simpleName": "",
-    "marketPrice": 500,
-    "productPrice": 319,
+    "marketPrice": 400,
+    "productPrice": "",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.23Zv4L3eDEdtmE-z9wP3ggHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "A mini water pump can be controlled using an Arduino to provide water flow for small-scale projects or experiments."
+    "productDetails": "A device used to move water from one place to another, commonly used in aquariums and hydroponic systems."
   },
   {
-    "productName": "stepdown transformer",
+    "productName": "Stepdown Transformer",
     "simpleName": "",
     "marketPrice": 1200,
-    "productPrice": 799,
+    "productPrice": "",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.qU3y33EJXhUjV4ftHzwt4AHaHa&pid=Api&P=0",
     "Availability": "TRUE",
-    "productDetails": "A step-down transformer reduces the voltage of an AC power source to a lower level suitable for use with an Arduino."
+    "productDetails": "A transformer used to reduce the voltage of an alternating current."
   },
   {
-    "productName": "LDR sensor",
-    "simpleName": "used to measure light intensity",
+    "productName": "LDR Sensor",
+    "simpleName": "",
     "marketPrice": 5,
-    "productPrice": 5,
+    "productPrice": "",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/ldr-sensor-module-india-800x800.jpg",
     "Availability": "TRUE",
-    "productDetails": "LDR (Light Dependent Resistor) sensor in Arduino measures light intensity and adjusts output based on surrounding illumination."
+    "productDetails": "A sensor that measures the intensity of light in a given area, commonly used in automatic lighting systems."
   },
   {
-    "productName": "IR Sensor",
-    "simpleName": "Infrared sensor",
+    "productName": "IR Sensor Module",
+    "simpleName": "",
     "marketPrice": 130,
-    "productPrice": 129,
+    "productPrice": "",
     "productImage": "https://i5.walmartimages.com/asr/070a7b34-0f86-4307-bddb-ef97323f1d4b_1.bc15b0759e26a2e0075f55f55080e618.jpeg",
     "Availability": "TRUE",
-    "productDetails": "IR sensor detects infrared radiation and converts it into a digital signal that can be read by an Arduino board."
+    "productDetails": "A sensor that detects infrared radiation, commonly used in motion detection systems."
   },
   {
-    "productName": "LDR sensor",
-    "simpleName": "used to measure light intensity",
-    "marketPrice": 5,
-    "productPrice": 5,
-    "productImage": "https://www.electronicscomp.com/image/cache/catalog/ldr-sensor-module-india-800x800.jpg",
+    "productName": "Arduino Nano",
+    "simpleName": "",
+    "marketPrice": 600,
+    "productPrice": "",
+    "productImage": "https://5.imimg.com/data5/VS/XC/MY-4167793/arduino-nano-500x500.jpg",
     "Availability": "TRUE",
-    "productDetails": "LDR (Light Dependent Resistor) sensor in Arduino measures light intensity and adjusts output based on surrounding illumination."
+    "productDetails": "A small, low-cost microcontroller board based on the ATmega328P microcontroller, commonly used in electronic projects."
   },
   {
-    "productName": "IR Sensor",
-    "simpleName": "Infrared sensor",
+    "productName": "Raspberry Pi Camera 5MP",
+    "simpleName": "",
+    "marketPrice": 400,
+    "productPrice": "",
+    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41vGRDyVq6L._SX425_.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A small camera module designed to work with Raspberry Pi boards."
+  },
+  {
+    "productName": "HC SR04 Ultrasonic Sensor",
+    "simpleName": "",
     "marketPrice": 130,
-    "productPrice": 129,
-    "productImage": "https://i5.walmartimages.com/asr/070a7b34-0f86-4307-bddb-ef97323f1d4b_1.bc15b0759e26a2e0075f55f55080e618.jpeg",
+    "productPrice": "",
+    "productImage": "https://superbtech.in/wp-content/uploads/2020/07/2-60.jpg",
     "Availability": "TRUE",
-    "productDetails": "IR sensor detects infrared radiation and converts it into a digital signal that can be read by an Arduino board."
+    "productDetails": "A sensor that uses sound waves to detect the distance between the sensor and an object."
+  },
+  {
+    "productName": "Soil Moisture Sensor (Resistive)",
+    "simpleName": "",
+    "marketPrice": 140,
+    "productPrice": "",
+    "productImage": "https://5.imimg.com/data5/SELLER/Default/2021/10/EQ/MD/WH/53302641/soil-moisture-sensor-module-500x500.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A sensor that measures the moisture content of soil, commonly used in irrigation systems."
+  },
+  {
+    "productName": "Buzzer",
+    "simpleName": "",
+    "marketPrice": 40,
+    "productPrice": "",
+    "productImage": "https://hackster.imgix.net/uploads/attachments/495698/FII0D11IAP6UG5A.png?auto=compress%2Cformat&w=900&h=675&fit=min",
+    "Availability": "TRUE",
+    "productDetails": "An electronic device that produces a buzzing or beeping sound, commonly used as an alarm or indicator."
+  },
+  {
+    "productName": "Rain Drop Sensor",
+    "simpleName": "",
+    "marketPrice": 120,
+    "productPrice": "",
+    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71F-IIlFPYL._SX342_.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A sensor that detects the presence of rain or water droplets, commonly used in automatic wiper systems."
+  },
+  {
+    "productName": "4 Channel Relay Module",
+    "simpleName": "",
+    "marketPrice": 260,
+    "productPrice": "",
+    "productImage": "https://5.imimg.com/data5/BE/HW/MY-41573657/4-channel-5v-relay-board-500x500.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A module that allows a microcontroller to control four high-power devices."
+  },
+  {
+    "productName": "Regulator",
+    "simpleName": "",
+    "marketPrice": 40,
+    "productPrice": "",
+    "productImage": "https://alexnld.com/wp-content/uploads/2015/03/SKU072962-1.jpg",
+    "Availability": "TRUE",
+    "productDetails": "An electronic device used to regulate the voltage in a circuit."
+  },
+  {
+    "productName": "Car Chassis 4WD with Wheels",
+    "simpleName": "",
+    "marketPrice": 700,
+    "productPrice": "",
+    "productImage": "https://tse1.mm.bing.net/th?id=OIP.imHlW8xFC2IYRJOO_g5vbwHaHa&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "A framework with four wheels used to build small cars and robots."
+  },
+  {
+    "productName": "L293d driver",
+    "simpleName": "",
+    "marketPrice": 250,
+    "productPrice": "",
+    "productImage": "https://ifuturetech.org/wp-content/uploads/2020/04/L293D-Motor-Drive-Shield-For-Arduino-MEGA-UNO-Diecimila-Duemilanove-Robot-Car-Motor-Control-Shield-iFuture-near-me-free-shipping-baroda-vadodara-gujarat-india-asia.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A motor control board designed to work with DC motors, commonly used in robotics and RC vehicles."
+  },
+  {
+    "productName": "BO Motor Single Shaft",
+    "simpleName": "",
+    "marketPrice": 200,
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/300-rpm-single-shaft-bo-motor-straight-400x400.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A motor with a single output shaft used in robotics and other projects."
+  },
+  {
+    "productName": "4x4 Keypad Module",
+    "simpleName": "",
+    "marketPrice": 130,
+    "productPrice": "",
+    "productImage": "https://roboway.in/wp-content/uploads/2022/06/4x4-keypad-700x700-800x800-1.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A module that allows for user input through a 4x4 keypad."
+  },
+  {
+    "productName": "MQ Sensor Board",
+    "simpleName": "",
+    "marketPrice": 180,
+    "productPrice": "",
+    "productImage": "https://robu.in/wp-content/uploads/2022/02/mq-2-gas-sensor-2_5.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A module that detects various gases in the air, commonly used for air quality monitoring."
+  },
+  {
+    "productName": "LM317PSU Board",
+    "simpleName": "",
+    "marketPrice": 1100,
+    "productPrice": "",
+    "productImage": "https://i5.walmartimages.com/asr/1b2db677-4d2f-47fd-b74b-58d93e070d68.3dd1bc6501225eaa98dd7745cfbc7182.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+    "Availability": "TRUE",
+    "productDetails": "A board used to regulate voltage in electronic circuits."
+  },
+  {
+    "productName": "Voltage Sensor",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61wJ-KAxVEL._SX342_.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A sensor used to measure the voltage of an electrical circuit."
+  },
+  {
+    "productName": "LM393 Sensor",
+    "simpleName": "",
+    "marketPrice": 200,
+    "productPrice": "",
+    "productImage": "https://tienda.starware.com.ar/wp-content/uploads/2020/06/modulo-sensor-ir-arduino-lm393-detector-de-obstaculos-2023-2617.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A sensor that detects changes in light, sound, or magnetic fields."
+  },
+  {
+    "productName": "20x4 LCD",
+    "simpleName": "",
+    "marketPrice": 500,
+    "productPrice": "",
+    "productImage": "https://robu.in/wp-content/uploads/2021/04/JHD-20x4-character-LCD-Display-with-Blue-Backlight-1.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A liquid crystal display with 20 columns and 4 rows, commonly used to display data in electronic projects."
+  },
+  {
+    "productName": "GY-521 Gyro Module",
+    "simpleName": "",
+    "marketPrice": 250,
+    "productPrice": "",
+    "productImage": "https://www.elementzonline.com/image/cache/catalog/data/products/Sensors%20and%20Modules/Accelerometers/MPU6050/sku_154602_2-550x550.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A module that measures rotation or orientation changes in 3 axes, commonly used in drone and robotics projects."
+  },
+  {
+    "productName": "ACS712 Module",
+    "simpleName": "",
+    "marketPrice": 230,
+    "productPrice": "",
+    "productImage": "https://www.rhydolabz.com/images/28/SEN2818.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A module that measures current flow in a circuit, commonly used in power monitoring applications."
+  },
+  {
+    "productName": "Relay Module 8 Channel",
+    "simpleName": "",
+    "marketPrice": 450,
+    "productPrice": "",
+    "productImage": "http://wiki.sunfounder.cc/images/7/72/Chad1.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A module that allows a microcontroller to control 8 high-power devices."
+  },
+  {
+    "productName": "Arduino Mega 2560",
+    "simpleName": "",
+    "marketPrice": 1500,
+    "productPrice": "",
+    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51R8jVAkiCL.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A microcontroller board based on the ATmega2560 microcontroller, commonly used in larger projects."
+  },
+  {
+    "productName": "Arduino Nano USB Cables",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://robu.in/wp-content/uploads/2017/09/200055733.jpg",
+    "Availability": "TRUE",
+    "productDetails": "USB cables used to program and power Arduino Nano boards."
+  },
+  {
+    "productName": "220V Sockets",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.circuitbasics.com/wp-content/uploads/2015/10/Build-an-Arduino-Controlled-Power-Outlet-20-1024x768.jpg",
+    "Availability": "TRUE",
+    "productDetails": "Electrical sockets designed to handle 220V AC power."
+  },
+  {
+    "productName": "Li-Ion Battery 11.1v",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://roboticsdna.in/wp-content/uploads/2019/12/x3s.jpg.pagespeed.ic.I832yPF1Xc.webp",
+    "Availability": "TRUE",
+    "productDetails": "A rechargeable battery commonly used in drones and other high-power projects."
+  },
+  {
+    "productName": "Li-Ion Battery 7.1v",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/7.4v-2.6ah-lithium-ion-battery-pack-inbuilt-bms-protection-1-800x800.JPG",
+    "Availability": "TRUE",
+    "productDetails": "A rechargeable battery commonly used in small electronic devices."
+  },
+  {
+    "productName": "Servo Motor Large",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/mg995-metal-gear-servo-motor-1-800x800.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A high-power motor with precise movement, commonly used in robotics and RC vehicles."
+  },
+  {
+    "productName": "5v USB Adapter",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.cdpsa.eu/cont2/wp-content/uploads/2022/02/Cargador-USB-5V-1A.jpg",
+    "Availability": "TRUE",
+    "productDetails": "An adapter that converts AC power to 5V DC power for USB devices."
+  },
+  {
+    "productName": "12V Adapter",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/12v-1a-dc-power-adapter-india-800x800.jpg",
+    "Availability": "TRUE",
+    "productDetails": "An adapter that converts AC power to 12V DC power for electronic devices."
+  },
+  {
+    "productName": "20V Adapter",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/24v-1a-dc-power-adapter-800x800.jpg",
+    "Availability": "TRUE",
+    "productDetails": "An adapter that converts AC power to 20V DC power for electronic devices."
+  },
+  {
+    "productName": "DC 200RPM Geared Motors",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/31iJ-h9YY0L._SX450_.jpg",
+    "Availability": "TRUE",
+    "productDetails": "High-torque motors with a gear reduction system, commonly used in robotics and RC vehicles."
+  },
+  {
+    "productName": "Geared Motor Bracket",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/center-shaft-gear-motor-l-clamp-bracket-3pcs-800x800.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A bracket used to mount geared motors securely in place in robotic or other projects."
+  },
+  {
+    "productName": "LED Strip",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61R997URrIL._SX466_.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A flexible circuit board with LEDs that can be cut and connected to create customizable lighting effects."
+  },
+  {
+    "productName": "DC BO Motors Single Shaft",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/300-rpm-single-shaft-bo-motor-straight-800x800.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A direct current motor with a single output shaft used in robotics, RC vehicles, and other projects."
+  },
+  {
+    "productName": "Wheels 110mm Diameter",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://tse2.mm.bing.net/th?id=OIP.81vttcwnM0PIhOliQ7XEXAHaHa&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "Large diameter wheels commonly used in robotic and RC vehicle projects for better traction and stability."
+  },
+  {
+    "productName": "Wheels 70mm Diameter",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://tse2.mm.bing.net/th?id=OIP.81vttcwnM0PIhOliQ7XEXAHaHa&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "70mm diameter wheels can be used with an Arduino to create a small mobile robot or for motion control applications."
+  },
+  {
+    "productName": "DC CPU Fan Module",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/dc-5v-2510-cooling-fan-25x25x10-mm-size-800x800.JPG",
+    "Availability": "TRUE",
+    "productDetails": "A DC CPU fan module can be interfaced with an Arduino to cool electronic devices or create air flow in a project"
+  },
+  {
+    "productName": "Wheels 30mm Diameter",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://tse2.mm.bing.net/th?id=OIP.81vttcwnM0PIhOliQ7XEXAHaHa&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "30mm diameter wheels can be used with an Arduino to create a small mobile robot or for precise motion control applications."
+  },
+  {
+    "productName": "Wheels 110mm Dia 40mm Thick",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://tse4.mm.bing.net/th?id=OIP.9TZZP_s5esPstOZfwOHKoQAAAA&pid=Api&P=0",
+    "Availability": "TRUE",
+    "productDetails": "110mm diameter and 40mm thick wheels can be used with an Arduino to create a mobile robot or vehicle."
+  },
+  {
+    "productName": "Prototype Board",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://www.electronicscomp.com/image/cache/catalog/5x7-universal-double-sided-pcb-3-800x800.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A prototype board for Arduino is a circuit board that allows users to create and test electronic circuits with an Arduino microcontroller."
+  },
+  {
+    "productName": "Mantra MFS100 Fingerprint Sensor",
+    "simpleName": "",
+    "marketPrice": "NA",
+    "productPrice": "",
+    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51UvWgpi6DL._SX355_.jpg",
+    "Availability": "TRUE",
+    "productDetails": "Mantra MFS100 is a fingerprint sensor module that can be interfaced with an Arduino board for biometric authentication applications."
+  },
+  {
+    "productName": "Stepper motor",
+    "simpleName": "",
+    "marketPrice": 1000,
+    "productPrice": "",
+    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/516JGZoh1lL._SL1000_.jpg",
+    "Availability": "TRUE",
+    "productDetails": "A stepper motor is a type of motor that can be controlled precisely with an Arduino for accurate and repeatable motion control."
   }
 ]

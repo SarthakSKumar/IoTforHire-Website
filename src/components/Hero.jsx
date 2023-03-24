@@ -22,7 +22,7 @@ export default function Hero() {
           <div className="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
             <a
               href="https://forms.gle/moQ1MxVZfwoHhVrL9"
-              className="inline-flex items-center justify-center w-full px-6 py-4  mr-2 text-md font-medium text-gray-900 bg-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-emerald-600 dark:text-white dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+              className="inline-flex items-center justify-center w-full px-6 py-4 bg-emerald-500 mr-2 text-md font-medium text-gray-900 text-white border border-gray-200 rounded-lg sm:w-auto focus:outline-none hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-emerald-600 dark:text-white dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
             >
               Order Now
             </a>

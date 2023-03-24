@@ -9,7 +9,7 @@ export default function About() {
             </h2>
             <p className="mb-8 lg:text-lg">
               We are a group of students at{" "}
-              <span className="text-emerald-400 font-semibold">
+              <span className="text-emerald-600 dark:text-emerald-400 font-semibold">
                 PES University
               </span>{" "}
               who want to make the process of acquiring IoT components, easy and
