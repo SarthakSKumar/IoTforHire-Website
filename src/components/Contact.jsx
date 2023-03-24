@@ -18,9 +18,11 @@ export default function Contact() {
               Become a vendor for IoT
               <span className="text-emerald-500">for</span>Hire
             </h3>
-            <button className=" w-max text-lg font-semibold text-white p-3 my-4 lg:my-7 bg-emerald-500 rounded-md">
-              Click Here to Apply <i className="uil uil-favorite"></i>
-            </button>
+            <a href="https://forms.gle/zfUiGYtkaerT1ntz7">
+              <button className=" w-max text-lg font-semibold text-white p-3 my-4 lg:my-7 bg-emerald-500 rounded-md">
+                Click Here to Apply <i className="uil uil-favorite"></i>
+              </button>
+            </a>
           </div>
           <div className="flex rounded-lg bg-gray-100 dark:bg-gray-800 p-4 mx-2 flex-wrap flex-col justify-evenly  w-[24rem] md:w-[30rem]">
             <div className="flex my-2">
