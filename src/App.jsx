@@ -31,7 +31,7 @@ function App() {
       <Hero />
       <SubHeader />
       <About />
-      <Catalogue productData={products} />
+      {products && <Catalogue productData={products} />}
       <FAQ />
       <Contact />
       <Footer />
