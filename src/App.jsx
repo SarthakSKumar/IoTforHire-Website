@@ -9,6 +9,7 @@ import Footer from "./components/Footer.jsx";
 import Contact from "./components/Contact.jsx";
 import "./App.css";
 
+// Make sure to bind modal to your appElement (https://reactcommunity.org/react-modal/accessibility/)
 function App() {
   const [products, setProducts] = useState("");
   const fetchData = () => {
