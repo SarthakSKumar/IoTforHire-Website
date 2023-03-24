@@ -37,7 +37,7 @@ export default function ProductCard(props) {
           <strike>
             <strong>
               Rs.
-              {props.marketPrice == "NA" ? props.marketPrice : "Yet to Update"}
+              {props.marketPrice ? props.marketPrice : "Yet to Update"}
             </strong>
           </strike>
         </p>
