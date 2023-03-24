@@ -1,5 +1,14 @@
 [
   {
+    "productName": "Arduino Uno",
+    "simpleName": "",
+    "marketPrice": 800,
+    "productPrice": "",
+    "productImage": "https://i0.wp.com/www.rytronics.in/wp-content/uploads/2023/01/Arduino-Uno-R3.webp?fit=800%2C750&ssl=1",
+    "Availability": "TRUE",
+    "productDetails": "A microcontroller board based on the ATmega328P microcontroller, commonly used in electronic projects."
+  },
+  {
     "productName": "NFR Module Transmitter/Reciever",
     "simpleName": "",
     "marketPrice": 180,
@@ -232,15 +241,6 @@
     "productImage": "https://potentiallabs.com/cart/image/cache/catalog/2021/Breadboard-Medium%20size-2-550x550h.jpg",
     "Availability": "TRUE",
     "productDetails": "A smaller version of the breadboard used for prototyping and testing electronic circuits."
-  },
-  {
-    "productName": "Arduino Uno",
-    "simpleName": "",
-    "marketPrice": 800,
-    "productPrice": "",
-    "productImage": "https://i0.wp.com/www.rytronics.in/wp-content/uploads/2023/01/Arduino-Uno-R3.webp?fit=800%2C750&ssl=1",
-    "Availability": "TRUE",
-    "productDetails": "A microcontroller board based on the ATmega328P microcontroller, commonly used in electronic projects."
   },
   {
     "productName": "Arduino Uno Mini Board",
