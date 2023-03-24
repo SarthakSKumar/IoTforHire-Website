@@ -18,6 +18,13 @@ export default function SubHeader() {
             and Trusted Components
           </h1>
         </div>
+        <div className="w-full text-center">
+          <h1 className="lg:text-xl md:text-xl text-lg text-gray-500 font-bold">
+            <span className="dark:text-gray-400 text-gray-600">
+              Book Today, Get it Tomorrow | No Deposit and Hidden Charges
+            </span>
+          </h1>
+        </div>
       </div>
     </section>
   );

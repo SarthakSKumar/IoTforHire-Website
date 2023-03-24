@@ -27,9 +27,6 @@ function App() {
   }, []);
   return (
     <div className="App">
-      <div className="bg-red-500 text-sm text-white text-center fixed w-screen bottom-0">
-        We have more! Product Details will be updated soon
-      </div>
       <Header />
       <Hero />
       <SubHeader />

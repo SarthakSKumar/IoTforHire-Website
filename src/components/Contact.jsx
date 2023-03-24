@@ -27,7 +27,7 @@ export default function Contact() {
           <div className="flex rounded-lg bg-gray-100 dark:bg-gray-800 p-4 mx-2 flex-wrap flex-col justify-evenly  w-[24rem] md:w-[30rem]">
             <div className="flex my-2">
               <i className="md:text-5xl text-3xl pr-3 text-emerald-600 dark:text-emerald-400 uil uil-location-point"></i>
-              <span className=" text-gray-600 text-md font-semibold">
+              <span className=" text-gray-400 text-md font-semibold">
                 <span className="text-lg dark:text-gray-300 text-gray-700">
                   Classroom 306
                   <br />

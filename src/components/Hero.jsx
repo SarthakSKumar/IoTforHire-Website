@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section className="bg-white dark:bg-gray-900 ">
-      <div className="grid max-w-screen-xl px-4 pb-8 mx-auto xl:gap-0 pt-0 lg:py-16 lg:grid-cols-12 lg:pt-10">
+      <div className="grid max-w-screen-xl px-4 pb-2 mx-auto xl:gap-0 pt-0 lg:pt-8 lg:pb-8 lg:grid-cols-12">
         <div className="mr-auto place-self-center lg:col-span-7 my-12">
           <h1 className="max-w-2xl mb-4 text-5xl font-bold leading-none tracking-tight md:text-7xl xl:text-7xl dark:text-white">
             IoT<span className="text-emerald-500">for</span>Hire
