@@ -1,12 +1,39 @@
 import React, { useState } from "react";
 
-const ModalComponent = ({ productData, onClose }) => {
+const BookingForm = ({ productData, onClose }) => {
   const [searchText, setSearchText] = useState("");
-  const [userData, setUserData] = useState({ name: "", selectedItems: [] });
+  const [userData, setUserData] = useState({
+    fullName: "",
+    SRN: "",
+    email: "",
+    section: "",
+    semester: "",
+    phoneNumber: "",
+    dateOfReturn: "",
+    selectedItems: [],
+  });
 
   const handleSearch = (e) => setSearchText(e.target.value);
 
   const handleNameChange = (e) =>
+    setUserData({ ...userData, name: e.target.value });
+  console.log(userData);
+  const handleSRNChange = (e) =>
+    setUserData({ ...userData, name: e.target.value });
+  console.log(userData);
+  const handleEmailChange = (e) =>
+    setUserData({ ...userData, name: e.target.value });
+  console.log(userData);
+  const handleSectionChange = (e) =>
+    setUserData({ ...userData, name: e.target.value });
+  console.log(userData);
+  const handleSemChange = (e) =>
+    setUserData({ ...userData, name: e.target.value });
+  console.log(userData);
+  const handlePhoneChange = (e) =>
+    setUserData({ ...userData, name: e.target.value });
+  console.log(userData);
+  const handleDateChange = (e) =>
     setUserData({ ...userData, name: e.target.value });
   console.log(userData);
 
@@ -52,9 +79,52 @@ const ModalComponent = ({ productData, onClose }) => {
       </button>
       <input
         type="text"
-        placeholder="Name"
-        value={userData.name}
+        placeholder="Full Name"
+        value={userData.fullName}
         onChange={handleNameChange}
+        className="border p-2 mb-4"
+      />
+      <input
+        type="text"
+        placeholder="SRN"
+        value={userData.SRN}
+        onChange={handleSRNChange}
+        className="border p-2 mb-4"
+      />
+      <input
+        type="text"
+        placeholder="Email"
+        value={userData.email}
+        onChange={handleEmailChange}
+        className="border p-2 mb-4"
+      />
+      <input
+        type="text"
+        placeholder="Section"
+        value={userData.section}
+        onChange={handleSectionChange}
+        className="border p-2 mb-4"
+      />
+      <input
+        type="text"
+        placeholder="Name"
+        value={userData.semester}
+        onChange={handleSemChange}
+        className="border p-2 mb-4"
+      />
+      <input
+        type="text"
+        placeholder="Name"
+        value={userData.phoneNumber}
+        onChange={handlePhoneChange}
+        className="border p-2 mb-4"
+      />
+
+      <input
+        type="text"
+        placeholder="Name"
+        value={userData.dateOfReturn}
+        onChange={handleDateChange}
         className="border p-2 mb-4"
       />
       <input
@@ -117,4 +187,4 @@ mb-4"
   );
 };
 
-export default ModalComponent;
+export default BookingForm;

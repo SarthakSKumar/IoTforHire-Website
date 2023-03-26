@@ -8,7 +8,7 @@ import FAQ from "./components/FAQ.jsx";
 import Footer from "./components/Footer.jsx";
 import Contact from "./components/Contact.jsx";
 import Order from "./components/Order.jsx";
-import ModalComponent from "./components/Modal.jsx";
+import BookingForm from "./components/BookingForm.jsx";
 import "./index.css";
 // Make sure to bind modal to your appElement (https://reactcommunity.org/react-modal/accessibility/)
 function App() {
@@ -54,7 +54,7 @@ function App() {
         </button>
         {isModalVisible && (
           <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
-            <ModalComponent productData={products} onClose={handleCloseModal} />
+            <BookingForm productData={products} onClose={handleCloseModal} />
           </div>
         )}
       </div>
