@@ -66,7 +66,7 @@ export default function Catalogue(props) {
             Search
           </button>
         </div>
-        <div className="flex my-10 justify-around flex-wrap">
+        <div className="flex my-10 justify-around flex-wrap h-[36rem] overflow-y-scroll">
           {renderProductCards()}
         </div>
       </div>

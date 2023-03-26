@@ -5,7 +5,7 @@ export default function ProductCard(props) {
     ? (availableClass = "bg-green-50 p-0.5 border-green-500 text-green-700")
     : (availableClass = "bg-red-50 p-0.5 border-red-500 text-red-700");
   return (
-    <div className="w-60 my-6 mx-4 bg-white border-2 border-emerald-400 shadow rounded-md">
+    <div className="w-48 my-6 mx-2 bg-white border-2 border-emerald-400 shadow rounded-md">
       <div
         className="h-32 w-full flex flex-col justify-between p-2 bg-cover bg-center rounded-t-md"
         style={{
