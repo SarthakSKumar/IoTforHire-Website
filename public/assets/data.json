@@ -313,8 +313,8 @@
   },
   {
     "productName": "LED",
-    "marketPrice": "NA",
-    "productPrice": "NA",
+    "marketPrice": "2 per PC",
+    "productPrice": "2 per PC",
     "productImage": "https://m.media-amazon.com/images/I/61WThZBg3AL._AC_SX679_.jpg",
     "Availability": "TRUE",
     "productDetails": "Indicator light source."
@@ -329,24 +329,24 @@
   },
   {
     "productName": "Male to Male Jumper Wires",
-    "marketPrice": "NA",
-    "productPrice": "NA",
+    "marketPrice": "3 per PC",
+    "productPrice": "2 per PC",
     "productImage": "https://mifraelectronics.com/wp-content/uploads/2022/03/cables.jpg",
     "Availability": "TRUE",
     "productDetails": "Male-male wires for component connection."
   },
   {
     "productName": "Male to Female Jumper Wires",
-    "marketPrice": "NA",
-    "productPrice": "NA",
+    "marketPrice": "3 per PC",
+    "productPrice": "2 per PC",
     "productImage": "https://tse4.mm.bing.net/th?id=OIP.ZsnjHYDC-o8zKVfVzDZC9gHaHa&pid=Api&P=0",
     "Availability": "TRUE",
     "productDetails": "Male-female wires for component connection."
   },
   {
     "productName": "Female to Female Jumper Wires",
-    "marketPrice": "NA",
-    "productPrice": "NA",
+    "marketPrice": "3 per PC",
+    "productPrice": "2 per PC",
     "productImage": "https://tse1.mm.bing.net/th?id=OIP.bXbEGYs9sz0ysoFXx4p82AHaHa&pid=Api&P=0",
     "Availability": "TRUE",
     "productDetails": "Female-female wires for component connection."

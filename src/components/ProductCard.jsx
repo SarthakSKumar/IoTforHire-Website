@@ -32,15 +32,17 @@ export default function ProductCard(props) {
           </h1>
         )}
         <p className="text-sm text-gray-700">{props.productDetails}</p>
-        <p className="text-center text-sm text-red-800 mt-1">
-          Market Price{" "}
-          <strike>
-            <strong>
-              Rs.
-              {props.marketPrice ? props.marketPrice : "Yet to Update"}
-            </strong>
-          </strike>
-        </p>
+        {props.marketPrice != props.productPrice && (
+          <p className="text-center text-sm text-red-800 mt-1">
+            Market Price{" "}
+            <strike>
+              <strong>
+                Rs.
+                {props.marketPrice ? props.marketPrice : "Yet to Update"}
+              </strong>
+            </strike>
+          </p>
+        )}
         <p className="text-center text-sm text-green-800 mt-1">
           Our Price{" "}
           <strong>
