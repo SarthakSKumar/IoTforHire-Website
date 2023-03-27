@@ -25,7 +25,7 @@ export default function Catalogue(props) {
       return filteredProductData.map((product) => (
         <ProductCard
           key={product.productName}
-          available={product.Availability}
+          available={product.availability}
           productImage={`${product.productImage}`}
           productName={product.productName}
           productPrice={product.productPrice}
@@ -54,7 +54,7 @@ export default function Catalogue(props) {
           <strong className="text-emerald-500">rent?</strong> Browse our wide
           selection of IoT components and start your project with us today!
         </p>
-        <div className="flex my-10 justify-center items-center">
+        <div className="flex my-6 justify-center items-center">
           <input
             type="text"
             placeholder="Search products..."
@@ -66,7 +66,10 @@ export default function Catalogue(props) {
             Search
           </button>
         </div>
-        <div className="flex my-10 justify-around flex-wrap h-[36rem] overflow-y-scroll">
+        <h6 className="block text-sm text-center text-gray-400">
+          *Products may vary from the images shown
+        </h6>
+        <div className="flex my-10 bg-white border-2 border-emerald-500 dark:bg-gray-800 p-4 rounded-lg justify-around flex-wrap h-[36rem] overflow-y-scroll">
           {renderProductCards()}
         </div>
       </div>

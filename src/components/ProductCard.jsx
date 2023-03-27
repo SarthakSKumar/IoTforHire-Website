@@ -1,6 +1,6 @@
 export default function ProductCard(props) {
   let available, availableClass;
-  props.available ? (available = true) : (available = false);
+  props.available == "TRUE" ? (available = true) : (available = false);
   available
     ? (availableClass = "bg-green-50 p-0.5 border-green-500 text-green-700")
     : (availableClass = "bg-red-50 p-0.5 border-red-500 text-red-700");
@@ -18,7 +18,7 @@ export default function ProductCard(props) {
           <span
             className={`uppercase text-xs mx-2 border rounded font-medium select-none ${availableClass}`}
           >
-            {available ? "Available" : "Unavailable"}
+            {available ? "Available" : "Sold Out"}
           </span>
         </div>
       </div>

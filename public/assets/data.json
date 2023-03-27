@@ -1,722 +1,730 @@
 [
   {
     "productName": "NFR Module Transmitter/Reciever",
-    "marketPrice": 180,
     "productPrice": 99,
+    "marketPrice": 180,
+    "productDetails": "Long-range wireless module.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61aagF1ENtL._SX569_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Long-range wireless module."
+    "availability": "TRUE"
   },
   {
     "productName": "433 MHz Transmitter/Reciever",
-    "marketPrice": 120,
     "productPrice": 69,
+    "marketPrice": 120,
+    "productDetails": "Low-cost remote control module.",
     "productImage": "https://ph-live-02.slatic.net/original/50c653e61b971ec2eff126b8c5b693d8.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Low-cost remote control module."
+    "availability": "TRUE"
   },
   {
     "productName": "Servo Motor 90g",
-    "marketPrice": 170,
     "productPrice": 99,
+    "marketPrice": 170,
+    "productDetails": "High-precision small motor.",
     "productImage": "https://rcmadness.com/wp-content/uploads/2016/08/savsh1250mg-2-1.jpg",
-    "Availability": "TRUE",
-    "productDetails": "High-precision small motor."
+    "availability": "TRUE"
   },
   {
     "productName": "ESP32 Camera",
-    "marketPrice": 1240,
     "productPrice": 699,
+    "marketPrice": 1240,
+    "productDetails": "ESP32-compatible camera module.",
     "productImage": "https://tse1.mm.bing.net/th?id=OIP.NyEl413CaBXkx1GCV_2xHQHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "ESP32-compatible camera module."
+    "availability": "TRUE"
   },
   {
     "productName": "ESP32 Board",
-    "marketPrice": 600,
     "productPrice": 349,
+    "marketPrice": 600,
+    "productDetails": "Powerful Wi-Fi and Bluetooth board.",
     "productImage": "https://diyusthad.com/wp-content/uploads/2019/07/esp32_sim800l-2.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Powerful Wi-Fi and Bluetooth board."
+    "availability": "TRUE"
   },
   {
     "productName": "ESP8266 Board",
-    "marketPrice": 420,
     "productPrice": 249,
+    "marketPrice": 420,
+    "productDetails": "Low-cost Wi-Fi board.",
     "productImage": "https://5.imimg.com/data5/CP/EY/RT/SELLER-1968074/esp-8266-cp2102-wifi-module-500x500.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Low-cost Wi-Fi board."
+    "availability": "TRUE"
   },
   {
     "productName": "CC3D Board",
-    "marketPrice": 990,
     "productPrice": 549,
+    "marketPrice": 990,
+    "productDetails": "Flight controller for RC aircraft.",
     "productImage": "http://img.banggood.com/thumb/water/oaupload/banggood/images/45/4B/95522a0f-55fa-407c-a18d-efc8c7b71515.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Flight controller for RC aircraft."
+    "availability": "TRUE"
   },
   {
     "productName": "Heart Rate Sensor",
-    "marketPrice": 300,
     "productPrice": 169,
+    "marketPrice": 300,
+    "productDetails": "Heart rate sensor for microcontroller.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.rOFSoR70K2k0ez14HrUbBAHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Heart rate sensor for microcontroller."
+    "availability": "TRUE"
   },
   {
-    "productName": "Joystick",
-    "marketPrice": 370,
+    "productName": "Joystick Module",
     "productPrice": 249,
+    "marketPrice": 370,
+    "productDetails": "Electronic input control device.",
     "productImage": "https://www.exploringarduino.com/wp-content/uploads/2013/06/joystick.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Electronic input control device."
+    "availability": "TRUE"
   },
   {
     "productName": "Adafruit Motor Driver Shield",
-    "marketPrice": 250,
     "productPrice": 149,
+    "marketPrice": 250,
+    "productDetails": "Arduino-compatible motor control board.",
     "productImage": "https://images-na.ssl-images-amazon.com/images/I/71lW7ePZ2qL._AC_SL1006_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Arduino-compatible motor control board."
+    "availability": "TRUE"
   },
   {
     "productName": "RFID Sensor with Card and Tag",
-    "marketPrice": 250,
     "productPrice": 149,
+    "marketPrice": 250,
+    "productDetails": "RFID reader using radio waves.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.CrwlLgTexgy0nXnSfLBYMwHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "RFID reader using radio waves."
+    "availability": "TRUE"
   },
   {
     "productName": "Potentiometers",
-    "marketPrice": 10,
     "productPrice": 10,
+    "marketPrice": 10,
+    "productDetails": "Variable resistors for circuit control.",
     "productImage": "https://tse2.mm.bing.net/th?id=OIP.zHALvBnXVmE3pcu_-epgbwHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Variable resistors for circuit control."
+    "availability": "TRUE"
   },
   {
     "productName": "HC05 Bluetooth Module",
-    "marketPrice": 400,
     "productPrice": 249,
+    "marketPrice": 400,
+    "productDetails": "Bluetooth wireless control module.",
     "productImage": "https://marocproduits.com/storage/2019/08/module-bluetooth-serie-hc05-768x768.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Bluetooth wireless control module."
+    "availability": "TRUE"
   },
   {
     "productName": "Buck and Boost Converter",
-    "marketPrice": 450,
     "productPrice": 249,
+    "marketPrice": 450,
+    "productDetails": "Voltage step-up/step-down converter.",
     "productImage": "https://hallroad.org/images/watermarked/thumbnails/500/500/detailed/25/buck-boost_convertor_3__x1s9-wl.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Voltage step-up/step-down converter."
+    "availability": "TRUE"
   },
   {
     "productName": "Power Distributor (BreadBoard)",
-    "marketPrice": 250,
     "productPrice": 149,
+    "marketPrice": 250,
+    "productDetails": "Power distribution board for circuits.",
     "productImage": "https://5.imimg.com/data5/SR/JZ/RD/SELLER-80355495/large-breadboard-800-points--500x500.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Power distribution board for circuits."
+    "availability": "TRUE"
   },
   {
     "productName": "DHT11",
-    "marketPrice": 200,
     "productPrice": 99,
+    "marketPrice": 200,
+    "productDetails": "Temperature and humidity sensor.",
     "productImage": "https://tse4.mm.bing.net/th?id=OIP.mwe2zsoUeMsCCCoDf8MuggHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Temperature and humidity sensor."
+    "availability": "TRUE"
   },
   {
     "productName": "Soil Moisture Sensor (Capacitive)",
-    "marketPrice": 140,
     "productPrice": 99,
+    "marketPrice": 140,
+    "productDetails": "Soil moisture sensor.",
     "productImage": "https://i2.wp.com/www.electroniclinic.com/wp-content/uploads/2020/02/resistive-soil-moisture-sensor.jpg?ssl=1",
-    "Availability": "TRUE",
-    "productDetails": "Soil moisture sensor."
+    "availability": "TRUE"
   },
   {
     "productName": "PIR Sensor",
-    "marketPrice": 200,
     "productPrice": 99,
+    "marketPrice": 200,
+    "productDetails": "Infrared motion sensor.",
     "productImage": "https://www.eleccircuit.com/wp-content/uploads/2011/06/Infrared-PIR-Human-Motion-Sensor-Detector-Modules.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Infrared motion sensor."
+    "availability": "TRUE"
   },
   {
     "productName": "16X2 LCD Display",
-    "marketPrice": 200,
     "productPrice": 99,
+    "marketPrice": 200,
+    "productDetails": "Standard character LCD display.",
     "productImage": "https://i1.wp.com/www.mytechnocare.com/wp-content/uploads/2016/08/1-LCD-16x2-162-2x16-Alphanumeric-DisplayJHD162A-MY-TechnoCare-www.mytechnocare.com-.jpg?fit=800%2C601&ssl=1",
-    "Availability": "TRUE",
-    "productDetails": "Standard character LCD display."
+    "availability": "TRUE"
   },
   {
     "productName": "Switches",
-    "marketPrice": 20,
-    "productPrice": 20,
+    "productPrice": 5,
+    "marketPrice": 5,
+    "productDetails": "Switches for ON/OFF Functionality",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.LwgNg0WSiXn_qm8t7p6s4QHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Switches for ON/OFF Functionality"
+    "availability": "TRUE"
   },
   {
     "productName": "220AC to Arduino Power Brick",
-    "marketPrice": 260,
     "productPrice": 149,
+    "marketPrice": 260,
+    "productDetails": "AC-DC converter for Arduino.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.qU3y33EJXhUjV4ftHzwt4AHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "AC-DC converter for Arduino."
+    "availability": "TRUE"
   },
   {
     "productName": "Car Chassis",
-    "marketPrice": "NA",
     "productPrice": "NA",
+    "marketPrice": "NA",
+    "productDetails": "Framework for car components.",
     "productImage": "https://tse2.mm.bing.net/th?id=OIP.ug508VAHq2_7hbcEvZX4aQHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Framework for car components."
+    "availability": "TRUE"
   },
   {
     "productName": "Solar Panel",
-    "marketPrice": 140,
     "productPrice": 99,
+    "marketPrice": 140,
+    "productDetails": "Solar panel for electronic devices.",
     "productImage": "https://tse2.mm.bing.net/th?id=OIP.xn7nAdC3OcLl3_1oBhbx2gHaE8&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Solar panel for electronic devices."
+    "availability": "TRUE"
   },
   {
     "productName": "BO Motor Single Shaft L Shape",
-    "marketPrice": 200,
     "productPrice": 99,
+    "marketPrice": 200,
+    "productDetails": "Single-shaft small motor.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/300-rpm-single-shaft-l-shaped-bo-motor-400x400.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Single-shaft small motor."
+    "availability": "TRUE"
   },
   {
     "productName": "Breadboard Medium",
-    "marketPrice": 100,
     "productPrice": 69,
+    "marketPrice": 100,
+    "productDetails": "Solderless prototyping board.",
     "productImage": "https://5.imimg.com/data5/SR/JZ/RD/SELLER-80355495/large-breadboard-800-points--500x500.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Solderless prototyping board."
+    "availability": "TRUE"
   },
   {
     "productName": "Breadboard Small",
-    "marketPrice": 50,
     "productPrice": 30,
+    "marketPrice": 50,
+    "productDetails": "Mini breadboard for circuits.",
     "productImage": "https://potentiallabs.com/cart/image/cache/catalog/2021/Breadboard-Medium%20size-2-550x550h.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Mini breadboard for circuits."
+    "availability": "TRUE"
   },
   {
     "productName": "Arduino Uno",
+    "productPrice": 369,
     "marketPrice": 559,
-    "productPrice": 349,
+    "productDetails": "ATmega328P microcontroller board.",
     "productImage": "https://i0.wp.com/www.rytronics.in/wp-content/uploads/2023/01/Arduino-Uno-R3.webp?fit=800%2C750&ssl=1",
-    "Availability": "TRUE",
-    "productDetails": "ATmega328P microcontroller board."
+    "availability": "TRUE"
   },
   {
     "productName": "Arduino Uno Mini Board",
-    "marketPrice": 799,
     "productPrice": 449,
+    "marketPrice": 799,
+    "productDetails": "Miniature version of Arduino Uno.",
     "productImage": "https://tse1.mm.bing.net/th?id=OIP.VKmL6Y_El0_wT_YuC0vT8QHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Miniature version of Arduino Uno."
+    "availability": "TRUE"
   },
   {
     "productName": "ESP Board Cable",
-    "marketPrice": 100,
     "productPrice": 69,
+    "marketPrice": 100,
+    "productDetails": "ESP cable for connection to devices.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.V8nrROMgctvLVDl80df3FgHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "ESP cable for connection to devices."
+    "availability": "TRUE"
   },
   {
     "productName": "Arduino Uno Cable",
-    "marketPrice": 100,
     "productPrice": 69,
+    "marketPrice": 100,
+    "productDetails": "Arduino Uno cable for connection to devices.",
     "productImage": "https://tse4.mm.bing.net/th?id=OIP.Es3wPRIFS1nP1nnJoC-J-QHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Arduino Uno cable for connection to devices."
+    "availability": "TRUE"
   },
   {
     "productName": "Breadboard Large",
-    "marketPrice": 150,
     "productPrice": 99,
+    "marketPrice": 150,
+    "productDetails": "Large breadboard for prototyping.",
     "productImage": "https://www.cairnselectronics.com.au/assets/alt_1/TOL9004.jpg?20210603215642",
-    "Availability": "TRUE",
-    "productDetails": "Large breadboard for prototyping."
+    "availability": "TRUE"
   },
   {
     "productName": "BO Motor Double Shaft",
-    "marketPrice": 200,
     "productPrice": 99,
+    "marketPrice": 200,
+    "productDetails": "Dual-shaft small motor.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/100-rpm-single-shaft-bo-motor-straight-1-800x800.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Dual-shaft small motor."
-  },
-  {
-    "productName": "Car Chasis 3 wheels",
-    "marketPrice": 400,
-    "productPrice": 249,
-    "productImage": "https://tse2.mm.bing.net/th?id=OIP.gzwlwszU4l6fhipLrvC41QHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Three-wheel robot framework."
+    "availability": "FALSE"
   },
   {
     "productName": "Battery Holder 4 Battery",
-    "marketPrice": 100,
     "productPrice": 49,
+    "marketPrice": 100,
+    "productDetails": "Battery holder for four batteries.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61+ZCv1CG2L._SX679_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Battery holder for four batteries."
+    "availability": "FALSE"
   },
   {
     "productName": "Battery Holder 2 Battery",
-    "marketPrice": 70,
     "productPrice": 49,
+    "marketPrice": 70,
+    "productDetails": "Battery holder for two batteries.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/31dK71WFtfL.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Battery holder for two batteries."
+    "availability": "TRUE"
   },
   {
     "productName": "OV7670 Camera Module",
-    "marketPrice": 320,
     "productPrice": 199,
+    "marketPrice": 320,
+    "productDetails": "Small camera module for surveillance.",
     "productImage": "https://www.srkelectronics.in/wp-content/uploads/2020/04/OV7670-Camera-Module-srkelectronics.in_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Small camera module for surveillance."
-  },
-  {
-    "productName": "L293 Motor Driver Shield",
-    "marketPrice": 250,
-    "productPrice": 149,
-    "productImage": "https://www.techtonics.in/image/cache/catalog/Images022023/tech1708-10-550x550.jpg",
-    "Availability": "TRUE",
-    "productDetails": "DC motor control board for Arduino."
+    "availability": "TRUE"
   },
   {
     "productName": "LM25965 DC-DC CONVERTER",
-    "marketPrice": 90,
     "productPrice": 49,
+    "marketPrice": 90,
+    "productDetails": "Voltage step-down converter.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51wrWoOq9qL._SX522_.jpghttps://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51wrWoOq9qL._SX522_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Voltage step-down converter."
+    "availability": "FALSE"
   },
   {
     "productName": "L298N H Bridge DC MOTOR DRIVER",
-    "marketPrice": 250,
     "productPrice": 149,
+    "marketPrice": 250,
+    "productDetails": "DC motor control board for robotics.",
     "productImage": "https://i0.wp.com/surtrtech.com/wp-content/uploads/2018/01/L298N-Motor-Drive-Controller-Board-Module-dual-H-Bridge-DC-Stepper-Motor-Driver-5.jpg?resize=1024%2C1024&ssl=1",
-    "Availability": "TRUE",
-    "productDetails": "DC motor control board for robotics."
+    "availability": "TRUE"
   },
   {
     "productName": "LED",
-    "marketPrice": "2 per PC",
-    "productPrice": "2 per PC",
+    "productPrice": 2,
+    "marketPrice": 2,
+    "productDetails": "Indicator light source.",
     "productImage": "https://m.media-amazon.com/images/I/61WThZBg3AL._AC_SX679_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Indicator light source."
+    "availability": "TRUE"
   },
   {
     "productName": "9V Battery Connector",
-    "marketPrice": 10,
     "productPrice": 10,
+    "marketPrice": 10,
+    "productDetails": "9V battery connector.",
     "productImage": "https://images-cdn.ubuy.co.in/6356a48f50b07d74541e555a-9v-battery-connector-10-pcs-t-type-9.jpg",
-    "Availability": "TRUE",
-    "productDetails": "9V battery connector."
+    "availability": "TRUE"
   },
   {
     "productName": "Male to Male Jumper Wires",
-    "marketPrice": "3 per PC",
-    "productPrice": "2 per PC",
+    "productPrice": 2,
+    "marketPrice": 3,
+    "productDetails": "Male-male wires for component connection.",
     "productImage": "https://mifraelectronics.com/wp-content/uploads/2022/03/cables.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Male-male wires for component connection."
+    "availability": "TRUE"
   },
   {
     "productName": "Male to Female Jumper Wires",
-    "marketPrice": "3 per PC",
-    "productPrice": "2 per PC",
+    "productPrice": 2,
+    "marketPrice": 3,
+    "productDetails": "Male-female wires for component connection.",
     "productImage": "https://tse4.mm.bing.net/th?id=OIP.ZsnjHYDC-o8zKVfVzDZC9gHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Male-female wires for component connection."
+    "availability": "TRUE"
   },
   {
     "productName": "Female to Female Jumper Wires",
-    "marketPrice": "3 per PC",
-    "productPrice": "2 per PC",
+    "productPrice": 2,
+    "marketPrice": 3,
+    "productDetails": "Female-female wires for component connection.",
     "productImage": "https://tse1.mm.bing.net/th?id=OIP.bXbEGYs9sz0ysoFXx4p82AHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Female-female wires for component connection."
+    "availability": "TRUE"
   },
   {
     "productName": "Resistors",
-    "marketPrice": "NA",
-    "productPrice": "NA",
+    "productPrice": 1,
+    "marketPrice": 1,
+    "productDetails": "Passive resistive components.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51-kjBFDkYL._SX522_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Passive resistive components."
+    "availability": "TRUE"
   },
   {
     "productName": "Water Pump",
-    "marketPrice": 400,
     "productPrice": 249,
+    "marketPrice": 400,
+    "productDetails": "Water pump for aquariums and hydroponics.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.23Zv4L3eDEdtmE-z9wP3ggHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Water pump for aquariums and hydroponics."
+    "availability": "FALSE"
   },
   {
     "productName": "Stepdown Transformer",
-    "marketPrice": 1200,
     "productPrice": 699,
+    "marketPrice": 1200,
+    "productDetails": "AC voltage transformer.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.qU3y33EJXhUjV4ftHzwt4AHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "AC voltage transformer."
+    "availability": "FALSE"
   },
   {
     "productName": "LDR Sensor",
-    "marketPrice": 5,
     "productPrice": 5,
+    "marketPrice": 5,
+    "productDetails": "Light intensity sensor for lighting systems.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/ldr-sensor-module-india-800x800.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Light intensity sensor for lighting systems."
+    "availability": "TRUE"
   },
   {
     "productName": "IR Sensor Module",
-    "marketPrice": 130,
     "productPrice": 69,
+    "marketPrice": 130,
+    "productDetails": "Infrared motion detection sensor.",
     "productImage": "https://i5.walmartimages.com/asr/070a7b34-0f86-4307-bddb-ef97323f1d4b_1.bc15b0759e26a2e0075f55f55080e618.jpeg",
-    "Availability": "TRUE",
-    "productDetails": "Infrared motion detection sensor."
+    "availability": "TRUE"
   },
   {
     "productName": "Arduino Nano",
-    "marketPrice": 350,
     "productPrice": 249,
+    "marketPrice": 350,
+    "productDetails": "Low-cost ATmega328P microcontroller board.",
     "productImage": "https://5.imimg.com/data5/VS/XC/MY-4167793/arduino-nano-500x500.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Low-cost ATmega328P microcontroller board."
+    "availability": "FALSE"
   },
   {
     "productName": "Raspberry Pi Camera 5MP",
-    "marketPrice": 400,
     "productPrice": 249,
+    "marketPrice": 400,
+    "productDetails": "Raspberry Pi-compatible camera module.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/41vGRDyVq6L._SX425_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Raspberry Pi-compatible camera module."
+    "availability": "FALSE"
   },
   {
     "productName": "HC SR04 Ultrasonic Sensor",
-    "marketPrice": 130,
     "productPrice": 69,
+    "marketPrice": 130,
+    "productDetails": "Ultrasonic distance sensor.",
     "productImage": "https://superbtech.in/wp-content/uploads/2020/07/2-60.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Ultrasonic distance sensor."
+    "availability": "TRUE"
   },
   {
     "productName": "Soil Moisture Sensor (Resistive)",
-    "marketPrice": 140,
     "productPrice": 99,
+    "marketPrice": 140,
+    "productDetails": "Soil moisture sensor for irrigation.",
     "productImage": "https://5.imimg.com/data5/SELLER/Default/2021/10/EQ/MD/WH/53302641/soil-moisture-sensor-module-500x500.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Soil moisture sensor for irrigation."
+    "availability": "TRUE"
   },
   {
     "productName": "Buzzer",
-    "marketPrice": 40,
     "productPrice": 30,
+    "marketPrice": 40,
+    "productDetails": "Buzzer for alarm and indicator.",
     "productImage": "https://hackster.imgix.net/uploads/attachments/495698/FII0D11IAP6UG5A.png?auto=compress%2Cformat&w=900&h=675&fit=min",
-    "Availability": "TRUE",
-    "productDetails": "Buzzer for alarm and indicator."
+    "availability": "TRUE"
   },
   {
     "productName": "Rain Drop Sensor",
-    "marketPrice": 120,
     "productPrice": 69,
+    "marketPrice": 120,
+    "productDetails": "Rain or water droplet sensor.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71F-IIlFPYL._SX342_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Rain or water droplet sensor."
+    "availability": "TRUE"
   },
   {
     "productName": "4 Channel Relay Module",
-    "marketPrice": 260,
     "productPrice": 149,
+    "marketPrice": 260,
+    "productDetails": "High-power device control module.",
     "productImage": "https://5.imimg.com/data5/BE/HW/MY-41573657/4-channel-5v-relay-board-500x500.jpg",
-    "Availability": "TRUE",
-    "productDetails": "High-power device control module."
-  },
-  {
-    "productName": "Regulator",
-    "marketPrice": 40,
-    "productPrice": 35,
-    "productImage": "https://alexnld.com/wp-content/uploads/2015/03/SKU072962-1.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Voltage regulation device for circuits."
+    "availability": "FALSE"
   },
   {
     "productName": "Car Chassis 4WD with Wheels",
-    "marketPrice": 700,
     "productPrice": 449,
+    "marketPrice": 700,
+    "productDetails": "Four-wheel robot framework.",
     "productImage": "https://tse1.mm.bing.net/th?id=OIP.imHlW8xFC2IYRJOO_g5vbwHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Four-wheel robot framework."
-  },
-  {
-    "productName": "L293d driver",
-    "marketPrice": 250,
-    "productPrice": 149,
-    "productImage": "https://ifuturetech.org/wp-content/uploads/2020/04/L293D-Motor-Drive-Shield-For-Arduino-MEGA-UNO-Diecimila-Duemilanove-Robot-Car-Motor-Control-Shield-iFuture-near-me-free-shipping-baroda-vadodara-gujarat-india-asia.jpg",
-    "Availability": "TRUE",
-    "productDetails": "DC motor control board for robotics."
+    "availability": "FALSE"
   },
   {
     "productName": "BO Motor Single Shaft",
-    "marketPrice": 200,
     "productPrice": 99,
+    "marketPrice": 200,
+    "productDetails": "Single output shaft motor.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/300-rpm-single-shaft-bo-motor-straight-400x400.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Single output shaft motor."
+    "availability": "FALSE"
   },
   {
     "productName": "4x4 Keypad Module",
-    "marketPrice": 130,
     "productPrice": 99,
+    "marketPrice": 130,
+    "productDetails": "4x4 keypad input module.",
     "productImage": "https://roboway.in/wp-content/uploads/2022/06/4x4-keypad-700x700-800x800-1.jpg",
-    "Availability": "TRUE",
-    "productDetails": "4x4 keypad input module."
+    "availability": "TRUE"
   },
   {
     "productName": "MQ Sensor Board",
-    "marketPrice": 180,
     "productPrice": 99,
+    "marketPrice": 180,
+    "productDetails": "Gas sensor for air quality monitoring.",
     "productImage": "https://robu.in/wp-content/uploads/2022/02/mq-2-gas-sensor-2_5.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Gas sensor for air quality monitoring."
+    "availability": "TRUE"
   },
   {
     "productName": "LM317PSU Board",
-    "marketPrice": 1100,
     "productPrice": 649,
+    "marketPrice": 1100,
+    "productDetails": "Voltage regulator board for circuits.",
     "productImage": "https://i5.walmartimages.com/asr/1b2db677-4d2f-47fd-b74b-58d93e070d68.3dd1bc6501225eaa98dd7745cfbc7182.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
-    "Availability": "TRUE",
-    "productDetails": "Voltage regulator board for circuits."
+    "availability": "TRUE"
   },
   {
     "productName": "Voltage Sensor",
-    "marketPrice": 30,
     "productPrice": 30,
+    "marketPrice": 30,
+    "productDetails": "Voltage measurement sensor.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61wJ-KAxVEL._SX342_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Voltage measurement sensor."
+    "availability": "TRUE"
   },
   {
     "productName": "LM393 Sensor",
-    "marketPrice": 200,
     "productPrice": 149,
+    "marketPrice": 200,
+    "productDetails": "Light, sound, and magnetic field sensor.",
     "productImage": "https://tienda.starware.com.ar/wp-content/uploads/2020/06/modulo-sensor-ir-arduino-lm393-detector-de-obstaculos-2023-2617.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Light, sound, and magnetic field sensor."
-  },
-  {
-    "productName": "20x4 LCD",
-    "marketPrice": 500,
-    "productPrice": 299,
-    "productImage": "https://robu.in/wp-content/uploads/2021/04/JHD-20x4-character-LCD-Display-with-Blue-Backlight-1.jpg",
-    "Availability": "TRUE",
-    "productDetails": "20x4 LCD display."
+    "availability": "TRUE"
   },
   {
     "productName": "GY-521 Gyro Module",
-    "marketPrice": 250,
     "productPrice": 149,
+    "marketPrice": 250,
+    "productDetails": "3-axis rotation/orientation sensor.",
     "productImage": "https://www.elementzonline.com/image/cache/catalog/data/products/Sensors%20and%20Modules/Accelerometers/MPU6050/sku_154602_2-550x550.jpg",
-    "Availability": "TRUE",
-    "productDetails": "3-axis rotation/orientation sensor."
+    "availability": "TRUE"
   },
   {
     "productName": "ACS712 Module",
-    "marketPrice": 230,
     "productPrice": 149,
+    "marketPrice": 230,
+    "productDetails": "Current measurement module.",
     "productImage": "https://www.rhydolabz.com/images/28/SEN2818.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Current measurement module."
+    "availability": "TRUE"
   },
   {
     "productName": "Relay Module 8 Channel",
-    "marketPrice": 450,
     "productPrice": 269,
+    "marketPrice": 450,
+    "productDetails": "High-power device control module.",
     "productImage": "http://wiki.sunfounder.cc/images/7/72/Chad1.jpg",
-    "Availability": "TRUE",
-    "productDetails": "High-power device control module."
-  },
-  {
-    "productName": "Arduino Mega 2560",
-    "marketPrice": 1500,
-    "productPrice": 999,
-    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51R8jVAkiCL.jpg",
-    "Availability": "TRUE",
-    "productDetails": "ATmega2560 microcontroller board."
+    "availability": "TRUE"
   },
   {
     "productName": "Arduino Nano USB Cables",
+    "productPrice": 49,
     "marketPrice": 70,
-    "productPrice": 49,
+    "productDetails": "USB cable for Arduino Nano.",
     "productImage": "https://robu.in/wp-content/uploads/2017/09/200055733.jpg",
-    "Availability": "TRUE",
-    "productDetails": "USB cable for Arduino Nano."
-  },
-  {
-    "productName": "220V Sockets",
-    "marketPrice": 80,
-    "productPrice": 49,
-    "productImage": "https://www.circuitbasics.com/wp-content/uploads/2015/10/Build-an-Arduino-Controlled-Power-Outlet-20-1024x768.jpg",
-    "Availability": "TRUE",
-    "productDetails": "220V AC electrical socket."
+    "availability": "TRUE"
   },
   {
     "productName": "Li-Ion Battery 11.1v",
-    "marketPrice": 949,
     "productPrice": 549,
+    "marketPrice": 949,
+    "productDetails": "Rechargeable battery for drones.",
     "productImage": "https://roboticsdna.in/wp-content/uploads/2019/12/x3s.jpg.pagespeed.ic.I832yPF1Xc.webp",
-    "Availability": "TRUE",
-    "productDetails": "Rechargeable battery for drones."
+    "availability": "TRUE"
   },
   {
     "productName": "Li-Ion Battery 7.1v",
-    "marketPrice": 535,
     "productPrice": 349,
+    "marketPrice": 535,
+    "productDetails": "Rechargeable battery for small devices.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/7.4v-2.6ah-lithium-ion-battery-pack-inbuilt-bms-protection-1-800x800.JPG",
-    "Availability": "TRUE",
-    "productDetails": "Rechargeable battery for small devices."
+    "availability": "TRUE"
   },
   {
     "productName": "Servo Motor Large",
-    "marketPrice": 280,
     "productPrice": 169,
+    "marketPrice": 280,
+    "productDetails": "High-precision high-power motor.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/mg995-metal-gear-servo-motor-1-800x800.jpg",
-    "Availability": "TRUE",
-    "productDetails": "High-precision high-power motor."
+    "availability": "TRUE"
   },
   {
     "productName": "5v USB Adapter",
-    "marketPrice": 130,
     "productPrice": 69,
+    "marketPrice": 130,
+    "productDetails": "AC-DC converter for USB devices.",
     "productImage": "https://www.cdpsa.eu/cont2/wp-content/uploads/2022/02/Cargador-USB-5V-1A.jpg",
-    "Availability": "TRUE",
-    "productDetails": "AC-DC converter for USB devices."
+    "availability": "TRUE"
   },
   {
     "productName": "12V Adapter",
-    "marketPrice": 449,
     "productPrice": 269,
+    "marketPrice": 449,
+    "productDetails": "AC-DC converter for 12V devices.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/12v-1a-dc-power-adapter-india-800x800.jpg",
-    "Availability": "TRUE",
-    "productDetails": "AC-DC converter for 12V devices."
+    "availability": "TRUE"
   },
   {
     "productName": "20V Adapter",
-    "marketPrice": 699,
     "productPrice": 449,
+    "marketPrice": 699,
+    "productDetails": "An adapter that converts AC power to 20V DC power for electronic devices.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/24v-1a-dc-power-adapter-800x800.jpg",
-    "Availability": "TRUE",
-    "productDetails": "An adapter that converts AC power to 20V DC power for electronic devices."
+    "availability": "TRUE"
   },
   {
     "productName": "DC 200RPM Geared Motors",
-    "marketPrice": 125,
     "productPrice": 69,
+    "marketPrice": 125,
+    "productDetails": "High-torque motors with a gear reduction system.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/31iJ-h9YY0L._SX450_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "High-torque motors with a gear reduction system, commonly used in robotics and RC vehicles."
+    "availability": "TRUE"
   },
   {
     "productName": "Geared Motor Bracket",
-    "marketPrice": 20,
     "productPrice": 20,
+    "marketPrice": 20,
+    "productDetails": "A bracket used to mount geared motors securely.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/center-shaft-gear-motor-l-clamp-bracket-3pcs-800x800.jpg",
-    "Availability": "TRUE",
-    "productDetails": "A bracket used to mount geared motors securely in place in robotic or other projects."
+    "availability": "TRUE"
   },
   {
     "productName": "LED Strip",
-    "marketPrice": 100,
     "productPrice": 69,
+    "marketPrice": 100,
+    "productDetails": "A flexible circuit board with LEDs that can be cut and connected.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/61R997URrIL._SX466_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "A flexible circuit board with LEDs that can be cut and connected to create customizable lighting effects."
+    "availability": "TRUE"
   },
   {
     "productName": "DC BO Motors Single Shaft",
-    "marketPrice": 75,
     "productPrice": 49,
+    "marketPrice": 75,
+    "productDetails": "A direct current motor with a single output shaft.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/300-rpm-single-shaft-bo-motor-straight-800x800.jpg",
-    "Availability": "TRUE",
-    "productDetails": "A direct current motor with a single output shaft used in robotics, RC vehicles, and other projects."
+    "availability": "TRUE"
   },
   {
     "productName": "Wheels 110mm Diameter",
-    "marketPrice": 160,
     "productPrice": 99,
+    "marketPrice": 160,
+    "productDetails": "Large diameter wheels commonly used in robotic and RC projects.",
     "productImage": "https://tse2.mm.bing.net/th?id=OIP.81vttcwnM0PIhOliQ7XEXAHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "Large diameter wheels commonly used in robotic and RC vehicle projects for better traction and stability."
+    "availability": "TRUE"
   },
   {
     "productName": "Wheels 70mm Diameter",
-    "marketPrice": 80,
     "productPrice": 49,
+    "marketPrice": 80,
+    "productDetails": "70mm diameter wheels for motion applications",
     "productImage": "https://tse2.mm.bing.net/th?id=OIP.81vttcwnM0PIhOliQ7XEXAHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "70mm diameter wheels can be used with an Arduino to create a small mobile robot or for motion control applications."
+    "availability": "TRUE"
   },
   {
     "productName": "DC CPU Fan Module",
-    "marketPrice": 60,
     "productPrice": 49,
+    "marketPrice": 60,
+    "productDetails": "A DC CPU fan module can be interfaced with an Arduino.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/dc-5v-2510-cooling-fan-25x25x10-mm-size-800x800.JPG",
-    "Availability": "TRUE",
-    "productDetails": "A DC CPU fan module can be interfaced with an Arduino to cool electronic devices or create air flow in a project"
+    "availability": "TRUE"
   },
   {
     "productName": "Wheels 30mm Diameter",
-    "marketPrice": 45,
     "productPrice": 30,
+    "marketPrice": 45,
+    "productDetails": "30mm diameter wheels for motion applications",
     "productImage": "https://tse2.mm.bing.net/th?id=OIP.81vttcwnM0PIhOliQ7XEXAHaHa&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "30mm diameter wheels can be used with an Arduino to create a small mobile robot or for precise motion control applications."
+    "availability": "TRUE"
   },
   {
-    "productName": "Wheels 110mm Dia 40mm Thick",
-    "marketPrice": 230,
-    "productPrice": 149,
-    "productImage": "https://tse4.mm.bing.net/th?id=OIP.9TZZP_s5esPstOZfwOHKoQAAAA&pid=Api&P=0",
-    "Availability": "TRUE",
-    "productDetails": "110mm diameter and 40mm thick wheels can be used with an Arduino to create a mobile robot or vehicle."
+    "productName": "Micro SD Reader Adapter",
+    "productPrice": 119,
+    "marketPrice": 89,
+    "productDetails": "A Micro SD reader adapter for interfacing with microcontrollers.",
+    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQv7ECc3bugnqFb8RYJNPbmiV4dnKR6tuoE5VUfRpgGVJWTbo_EGMNZDYlYmMYZms4yYNpjrBSdFihyYdZelphQ13KwnyztXe522seZpQcTprLYWH2T9bom&usqp=CAE",
+    "availability": "TRUE"
   },
   {
-    "productName": "Prototype Board",
-    "marketPrice": 48,
-    "productPrice": 40,
-    "productImage": "https://www.electronicscomp.com/image/cache/catalog/5x7-universal-double-sided-pcb-3-800x800.jpg",
-    "Availability": "TRUE",
-    "productDetails": "A prototype board for Arduino is a circuit board that allows users to create and test electronic circuits with an Arduino microcontroller."
+    "productName": "LM35 Temperature Sensor",
+    "productPrice": 89,
+    "marketPrice": 119,
+    "productDetails": "An accurate temperature sensor that converts ambient temperature into analog voltage.",
+    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLl2a9_qtbEY-28FSdUHww8gwahEaF_Dwl4Ta6vEW_wEzfiAtPuu9RrVddHgw8SLRmVg6eqryAhUaWXKiBBUPgNKznHLjuwWGYJjDdPvZDWt4fM_GDyrYr&usqp=CAE",
+    "availability": "TRUE"
   },
   {
-    "productName": "Mantra MFS100 Fingerprint Sensor",
-    "marketPrice": 1949,
-    "productPrice": 999,
-    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51UvWgpi6DL._SX355_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "Mantra MFS100 is a fingerprint sensor module that can be interfaced with an Arduino board for biometric authentication applications."
+    "productName": "4WD Car Chassis",
+    "productPrice": 120,
+    "marketPrice": 180,
+    "productDetails": "A 4-wheel-drive car chassis for motion applications with adjustable speed and wheels.",
+    "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTiQ4PFX2SrGpNTV8HS_q0_IjpuRwNWOxmGoenia0rde3vnY4LuUNOlqdnu6eHAETbyhIo1RP3dAWJmruLUHCYmeDgNQg_2n5oj5CTsxSgBD8dqnOLqpzrO&usqp=CAE",
+    "availability": "TRUE"
   },
   {
-    "productName": "Stepper motor",
-    "marketPrice": 999,
-    "productPrice": 599,
-    "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/516JGZoh1lL._SL1000_.jpg",
-    "Availability": "TRUE",
-    "productDetails": "A stepper motor is a type of motor that can be controlled precisely with an Arduino for accurate and repeatable motion control."
+    "productName": "Single End Jumper Wires",
+    "productPrice": 2,
+    "marketPrice": 2,
+    "productDetails": "Single-end wires to connect components on breadboards or prototype boards.",
+    "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQBUMqNrQUNfsFXFnLIP6PiE6AUPgua1LJUIRC2XPcSnKimWwLoDDCcY7OfqkKRMNQTWSN14VnJnFQ5jZkhWJsbFARsp5YW0FXbNqluAfatXJWMusQ8mIdX&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "2 Channel relay module",
+    "productPrice": 65,
+    "marketPrice": 90,
+    "productDetails": "A two-channel relay module switching AC/DC loads up to 10A at 120VAC or 24VDC.",
+    "productImage": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSwdbePKBOIM4T1QJyvfxhLFlx6Of6cnJSy_rGMAYVHut9X3HZsAHFrh64DmoxdR09W0PFXjrswBIJTVr3r2FhXIM0zy1OfN9FJT35PN4gcSmEY7Nupqmj0A&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "Single Channel relay module",
+    "productPrice": 65,
+    "marketPrice": 90,
+    "productDetails": "A single-channel module controlling appliances from low voltage devices like microcontrollers.",
+    "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRgGInH9YCzmAEoYTKrRNaOpRhYq2A0ICJ8IIcNW0MRdtn7bdn3LD7t77kWN6UtA-NrVmOhkaalqCANQjAweoBTTQYkrJ1IplbmO7qDl-IKXJEhDKLTjp-z&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "Sound Sensor",
+    "productPrice": 42,
+    "marketPrice": 64,
+    "productDetails": "Detects sound waves in the environment and outputs a corresponding electrical signal.",
+    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSq55LePaXuCzRkPRYWLonF5lIrZePVgYfzsQYmqZT9bvV1cdPLPPOI1uSrie8T4y437w_dh0GK77jfGoyKKcEve2Ai_uXb5O5J8VxLgkU1Llpf8oF5eiPuuQ&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "LM386 Amplifier",
+    "productPrice": 35,
+    "marketPrice": 50,
+    "productDetails": "Amplifies small audio signals providing sufficient power for speakers or headphones.",
+    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPlkU_yiyDuBfbcr-LrA2lIfXlLW02DPsRGgnXWodoHNb689gQ3JrjSJOdfNBTBYFn67DPiDPWD_T4AHNUxt3N4J6cRj6ndBkx2kmra7LJ3-Y4yYsGAOfE&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "8x8 LED Matrix",
+    "productPrice": 35,
+    "marketPrice": 50,
+    "productDetails": "Displays text, symbols, and simple animations in electronic projects using an LED matrix display",
+    "productImage": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzzlI06wNl9pbPpqUgFsTfe1z4T2lcuhZuPhtD36BDl-i5QMy01CN_iCo9_LF3RHLXF9-9P9ESd43jZtd9x5hpTO7Ifuy-ih5P_lSU--HA_rN9HsE3qCubHA&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "i2C Driver",
+    "productPrice": 59,
+    "marketPrice": 80,
+    "productDetails": "i2C driver for LCD Module",
+    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsJoHUEAZ34yvBciLf9FHvwvvLFrW2QbBIyeiGYyKJLXebXJWdlzafp1WCMLV5E34ez4S5uDDxBpJEfzB0oqZGHUd18N8PH_agvmtGwtdNIl4fC0RxlTgu&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "DC Toy Motor",
+    "productPrice": 59,
+    "marketPrice": 75,
+    "productDetails": "Low voltage motor designed for toys and hobby projects.",
+    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7j54KUTpeuMR8eYbF_AND21cfEu3BkVlOm08E-Jx4P3_QyA0WTk0-Wq_7cnaRWA_0CLFik_ARlJYG3mgvroKiSJY52C-s&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "DHT22",
+    "productPrice": 220,
+    "marketPrice": 119,
+    "productDetails": "Digital sensor measuring ambient temperature and relative humidity accurately.",
+    "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNBo0HKotBrT5n1pESWT4t1TCSGZ-s60H9JIk9W5ILe64vVO_OVa_w74ptFhWMZAsxmk1_OBKYydP8IgvlA0iYb_GqZBO6rl3QAh4KgglKYxkpK1iG5FgAbdw&usqp=CAE",
+    "availability": "TRUE"
   }
 ]
