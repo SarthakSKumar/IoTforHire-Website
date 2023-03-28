@@ -136,6 +136,14 @@
     "availability": "TRUE"
   },
   {
+    "productName": "Arduino Mega",
+    "productPrice": 869,
+    "marketPrice": 1599,
+    "productDetails": "Arduino Mega is a microcontroller board based on the ATmega 2560.",
+    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRyvPL3_htzA7XvjNMM7F42FOKe5inPx4X1KmqZU2CmwGkAmq_D3aTKW9rY4SCyvEUjXpXzq-c-1u8jDInAMlhVSTmY7WxVuN8ShIsWZYucIUieLJlTdpQw&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
     "productName": "Soil Moisture Sensor (Capacitive)",
     "productPrice": 99,
     "marketPrice": 140,
@@ -241,8 +249,8 @@
   },
   {
     "productName": "Arduino Uno Cable",
-    "productPrice": 69,
-    "marketPrice": 100,
+    "productPrice": 49,
+    "marketPrice": 80,
     "productDetails": "Arduino Uno cable for connection to devices.",
     "productImage": "https://tse4.mm.bing.net/th?id=OIP.Es3wPRIFS1nP1nnJoC-J-QHaHa&pid=Api&P=0",
     "availability": "FALSE"
@@ -633,16 +641,16 @@
   },
   {
     "productName": "Wheels 30mm Diameter",
-    "productPrice": 30,
-    "marketPrice": 45,
+    "productPrice": 89,
+    "marketPrice": 119,
     "productDetails": "30mm diameter wheels for motion applications",
     "productImage": "https://tse2.mm.bing.net/th?id=OIP.81vttcwnM0PIhOliQ7XEXAHaHa&pid=Api&P=0",
     "availability": "TRUE"
   },
   {
     "productName": "Micro SD Reader Adapter",
-    "productPrice": 89,
-    "marketPrice": 119,
+    "productPrice": 119,
+    "marketPrice": 89,
     "productDetails": "A Micro SD reader adapter for interfacing with microcontrollers.",
     "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQv7ECc3bugnqFb8RYJNPbmiV4dnKR6tuoE5VUfRpgGVJWTbo_EGMNZDYlYmMYZms4yYNpjrBSdFihyYdZelphQ13KwnyztXe522seZpQcTprLYWH2T9bom&usqp=CAE",
     "availability": "TRUE"
@@ -665,24 +673,24 @@
   },
   {
     "productName": "Single End Jumper Wires",
-    "productPrice": 2,
-    "marketPrice": 2,
+    "productPrice": 65,
+    "marketPrice": 90,
     "productDetails": "Single-end wires to connect components on breadboards or prototype boards.",
     "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQBUMqNrQUNfsFXFnLIP6PiE6AUPgua1LJUIRC2XPcSnKimWwLoDDCcY7OfqkKRMNQTWSN14VnJnFQ5jZkhWJsbFARsp5YW0FXbNqluAfatXJWMusQ8mIdX&usqp=CAE",
     "availability": "TRUE"
   },
   {
     "productName": "2 Channel relay module",
-    "productPrice": 65,
-    "marketPrice": 90,
+    "productPrice": 42,
+    "marketPrice": 64,
     "productDetails": "A two-channel relay module switching AC/DC loads up to 10A at 120VAC or 24VDC.",
     "productImage": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSwdbePKBOIM4T1QJyvfxhLFlx6Of6cnJSy_rGMAYVHut9X3HZsAHFrh64DmoxdR09W0PFXjrswBIJTVr3r2FhXIM0zy1OfN9FJT35PN4gcSmEY7Nupqmj0A&usqp=CAE",
     "availability": "TRUE"
   },
   {
     "productName": "Single Channel relay module",
-    "productPrice": 42,
-    "marketPrice": 64,
+    "productPrice": 35,
+    "marketPrice": 50,
     "productDetails": "A single-channel module controlling appliances from low voltage devices like microcontrollers.",
     "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRgGInH9YCzmAEoYTKrRNaOpRhYq2A0ICJ8IIcNW0MRdtn7bdn3LD7t77kWN6UtA-NrVmOhkaalqCANQjAweoBTTQYkrJ1IplbmO7qDl-IKXJEhDKLTjp-z&usqp=CAE",
     "availability": "TRUE"
@@ -697,8 +705,8 @@
   },
   {
     "productName": "LM386 Amplifier",
-    "productPrice": 35,
-    "marketPrice": 50,
+    "productPrice": 59,
+    "marketPrice": 80,
     "productDetails": "Amplifies small audio signals providing sufficient power for speakers or headphones.",
     "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPlkU_yiyDuBfbcr-LrA2lIfXlLW02DPsRGgnXWodoHNb689gQ3JrjSJOdfNBTBYFn67DPiDPWD_T4AHNUxt3N4J6cRj6ndBkx2kmra7LJ3-Y4yYsGAOfE&usqp=CAE",
     "availability": "TRUE"
@@ -706,23 +714,23 @@
   {
     "productName": "8x8 LED Matrix",
     "productPrice": 59,
-    "marketPrice": 80,
+    "marketPrice": 75,
     "productDetails": "Displays text, symbols, and simple animations in electronic projects using an LED matrix display",
     "productImage": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzzlI06wNl9pbPpqUgFsTfe1z4T2lcuhZuPhtD36BDl-i5QMy01CN_iCo9_LF3RHLXF9-9P9ESd43jZtd9x5hpTO7Ifuy-ih5P_lSU--HA_rN9HsE3qCubHA&usqp=CAE",
     "availability": "TRUE"
   },
   {
     "productName": "DC Toy Motor",
-    "productPrice": 59,
-    "marketPrice": 75,
+    "productPrice": 15,
+    "marketPrice": 20,
     "productDetails": "Low voltage motor designed for toys and hobby projects.",
     "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7j54KUTpeuMR8eYbF_AND21cfEu3BkVlOm08E-Jx4P3_QyA0WTk0-Wq_7cnaRWA_0CLFik_ARlJYG3mgvroKiSJY52C-s&usqp=CAE",
     "availability": "TRUE"
   },
   {
     "productName": "DHT22",
-    "productPrice": 220,
-    "marketPrice": 119,
+    "productPrice": "",
+    "marketPrice": "",
     "productDetails": "Digital sensor measuring ambient temperature and relative humidity accurately.",
     "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNBo0HKotBrT5n1pESWT4t1TCSGZ-s60H9JIk9W5ILe64vVO_OVa_w74ptFhWMZAsxmk1_OBKYydP8IgvlA0iYb_GqZBO6rl3QAh4KgglKYxkpK1iG5FgAbdw&usqp=CAE",
     "availability": "TRUE"
@@ -731,8 +739,8 @@
     "productName": "Flex Sensor",
     "productPrice": "",
     "marketPrice": "",
-    "productDetails": "measures the amount of deflection or bending",
-    "productImage": "https://cdn.shopify.com/s/files/1/0088/0056/7392/products/FlexMakerBazar1.png?v=1626951992",
-    "availability": "TRUE"
+    "productDetails": "",
+    "productImage": "",
+    "availability": ""
   }
 ]
