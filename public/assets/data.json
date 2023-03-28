@@ -48,6 +48,14 @@
     "availability": "TRUE"
   },
   {
+    "productName": "ESP-01 Module",
+    "productPrice": 69,
+    "marketPrice": 120,
+    "productDetails": "Wi-Fi Wireless Transciever Module",
+    "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7kvy6Kbp2cfrmZB2RVB2XLEiNq4GCfHwBVteTWRPdvirugFDIVrsSjOgD9Yc47LhlR69776hA2Nk9zgD7yRmGeWfa3UfjVecia23sGVDUJlV8Sxk0b74OrA&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
     "productName": "CC3D Board",
     "productPrice": 549,
     "marketPrice": 990,
@@ -61,7 +69,7 @@
     "marketPrice": 300,
     "productDetails": "Heart rate sensor for microcontroller.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.rOFSoR70K2k0ez14HrUbBAHaHa&pid=Api&P=0",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "Joystick Module",
@@ -77,7 +85,7 @@
     "marketPrice": 250,
     "productDetails": "Arduino-compatible motor control board.",
     "productImage": "https://images-na.ssl-images-amazon.com/images/I/71lW7ePZ2qL._AC_SL1006_.jpg",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "RFID Sensor with Card and Tag",
@@ -213,10 +221,10 @@
     "marketPrice": 559,
     "productDetails": "ATmega328P microcontroller board.",
     "productImage": "https://i0.wp.com/www.rytronics.in/wp-content/uploads/2023/01/Arduino-Uno-R3.webp?fit=800%2C750&ssl=1",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
-    "productName": "Arduino Uno Mini Board",
+    "productName": "Arduino Pro Mini Board",
     "productPrice": 449,
     "marketPrice": 799,
     "productDetails": "Miniature version of Arduino Uno.",
@@ -237,7 +245,7 @@
     "marketPrice": 100,
     "productDetails": "Arduino Uno cable for connection to devices.",
     "productImage": "https://tse4.mm.bing.net/th?id=OIP.Es3wPRIFS1nP1nnJoC-J-QHaHa&pid=Api&P=0",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "Breadboard Large",
@@ -269,7 +277,7 @@
     "marketPrice": 70,
     "productDetails": "Battery holder for two batteries.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/31dK71WFtfL.jpg",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "OV7670 Camera Module",
@@ -337,8 +345,8 @@
   },
   {
     "productName": "Resistors",
-    "productPrice": 1,
-    "marketPrice": 1,
+    "productPrice": 2,
+    "marketPrice": 2,
     "productDetails": "Passive resistive components.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/51-kjBFDkYL._SX522_.jpg",
     "availability": "TRUE"
@@ -405,7 +413,7 @@
     "marketPrice": 140,
     "productDetails": "Soil moisture sensor for irrigation.",
     "productImage": "https://5.imimg.com/data5/SELLER/Default/2021/10/EQ/MD/WH/53302641/soil-moisture-sensor-module-500x500.jpg",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "Buzzer",
@@ -421,7 +429,7 @@
     "marketPrice": 120,
     "productDetails": "Rain or water droplet sensor.",
     "productImage": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T2/images/I/71F-IIlFPYL._SX342_.jpg",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "4 Channel Relay Module",
@@ -453,7 +461,7 @@
     "marketPrice": 130,
     "productDetails": "4x4 keypad input module.",
     "productImage": "https://roboway.in/wp-content/uploads/2022/06/4x4-keypad-700x700-800x800-1.jpg",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "MQ Sensor Board",
@@ -633,16 +641,16 @@
   },
   {
     "productName": "Micro SD Reader Adapter",
-    "productPrice": 119,
-    "marketPrice": 89,
+    "productPrice": 89,
+    "marketPrice": 119,
     "productDetails": "A Micro SD reader adapter for interfacing with microcontrollers.",
     "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQv7ECc3bugnqFb8RYJNPbmiV4dnKR6tuoE5VUfRpgGVJWTbo_EGMNZDYlYmMYZms4yYNpjrBSdFihyYdZelphQ13KwnyztXe522seZpQcTprLYWH2T9bom&usqp=CAE",
     "availability": "TRUE"
   },
   {
     "productName": "LM35 Temperature Sensor",
-    "productPrice": 89,
-    "marketPrice": 119,
+    "productPrice": 70,
+    "marketPrice": 80,
     "productDetails": "An accurate temperature sensor that converts ambient temperature into analog voltage.",
     "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLl2a9_qtbEY-28FSdUHww8gwahEaF_Dwl4Ta6vEW_wEzfiAtPuu9RrVddHgw8SLRmVg6eqryAhUaWXKiBBUPgNKznHLjuwWGYJjDdPvZDWt4fM_GDyrYr&usqp=CAE",
     "availability": "TRUE"
@@ -673,16 +681,16 @@
   },
   {
     "productName": "Single Channel relay module",
-    "productPrice": 65,
-    "marketPrice": 90,
+    "productPrice": 42,
+    "marketPrice": 64,
     "productDetails": "A single-channel module controlling appliances from low voltage devices like microcontrollers.",
     "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRgGInH9YCzmAEoYTKrRNaOpRhYq2A0ICJ8IIcNW0MRdtn7bdn3LD7t77kWN6UtA-NrVmOhkaalqCANQjAweoBTTQYkrJ1IplbmO7qDl-IKXJEhDKLTjp-z&usqp=CAE",
     "availability": "TRUE"
   },
   {
     "productName": "Sound Sensor",
-    "productPrice": 42,
-    "marketPrice": 64,
+    "productPrice": 35,
+    "marketPrice": 50,
     "productDetails": "Detects sound waves in the environment and outputs a corresponding electrical signal.",
     "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSq55LePaXuCzRkPRYWLonF5lIrZePVgYfzsQYmqZT9bvV1cdPLPPOI1uSrie8T4y437w_dh0GK77jfGoyKKcEve2Ai_uXb5O5J8VxLgkU1Llpf8oF5eiPuuQ&usqp=CAE",
     "availability": "TRUE"
@@ -697,18 +705,10 @@
   },
   {
     "productName": "8x8 LED Matrix",
-    "productPrice": 35,
-    "marketPrice": 50,
-    "productDetails": "Displays text, symbols, and simple animations in electronic projects using an LED matrix display",
-    "productImage": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzzlI06wNl9pbPpqUgFsTfe1z4T2lcuhZuPhtD36BDl-i5QMy01CN_iCo9_LF3RHLXF9-9P9ESd43jZtd9x5hpTO7Ifuy-ih5P_lSU--HA_rN9HsE3qCubHA&usqp=CAE",
-    "availability": "TRUE"
-  },
-  {
-    "productName": "i2C Driver",
     "productPrice": 59,
     "marketPrice": 80,
-    "productDetails": "i2C driver for LCD Module",
-    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsJoHUEAZ34yvBciLf9FHvwvvLFrW2QbBIyeiGYyKJLXebXJWdlzafp1WCMLV5E34ez4S5uDDxBpJEfzB0oqZGHUd18N8PH_agvmtGwtdNIl4fC0RxlTgu&usqp=CAE",
+    "productDetails": "Displays text, symbols, and simple animations in electronic projects using an LED matrix display",
+    "productImage": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzzlI06wNl9pbPpqUgFsTfe1z4T2lcuhZuPhtD36BDl-i5QMy01CN_iCo9_LF3RHLXF9-9P9ESd43jZtd9x5hpTO7Ifuy-ih5P_lSU--HA_rN9HsE3qCubHA&usqp=CAE",
     "availability": "TRUE"
   },
   {
@@ -725,6 +725,14 @@
     "marketPrice": 119,
     "productDetails": "Digital sensor measuring ambient temperature and relative humidity accurately.",
     "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNBo0HKotBrT5n1pESWT4t1TCSGZ-s60H9JIk9W5ILe64vVO_OVa_w74ptFhWMZAsxmk1_OBKYydP8IgvlA0iYb_GqZBO6rl3QAh4KgglKYxkpK1iG5FgAbdw&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "Flex Sensor",
+    "productPrice": "",
+    "marketPrice": "",
+    "productDetails": "measures the amount of deflection or bending",
+    "productImage": "https://cdn.shopify.com/s/files/1/0088/0056/7392/products/FlexMakerBazar1.png?v=1626951992",
     "availability": "TRUE"
   }
 ]
