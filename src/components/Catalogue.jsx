@@ -51,9 +51,11 @@ export default function Catalogue(props) {
         </h2>
         <p className="max-w-2xl px-4 mx-auto mt-2 text-center text-gray-400 dark:text-gray-400">
           Why wait when you can{" "}
-          <strong className="text-emerald-500">rent?</strong> Browse our wide
-          selection of IoT components and start your project with us today!
+          <strong className="text-emerald-500">rent?</strong> Our inventory is
+          continously updated and is consistently expanding, offering you the
+          the IoT components available.
         </p>
+        <p className="max-w-2xl px-4 mx-auto mt-2 text-center text-gray-400 dark:text-gray-400"></p>
         <div className="flex my-6 justify-center items-center">
           <input
             type="text"
@@ -69,7 +71,11 @@ export default function Catalogue(props) {
         <h6 className="block text-sm text-center text-gray-400">
           *Products may vary from the images shown
         </h6>
-        <div className="flex my-10 bg-white border-2 border-emerald-500 dark:bg-gray-800 p-4 rounded-lg justify-around flex-wrap h-[36rem] overflow-y-scroll">
+        <div
+          className={`flex my-10 bg-white border-2 border-emerald-500 dark:bg-gray-800 p-4 rounded-lg justify-around flex-wrap ${
+            searchQuery ? "h-fit" : "h-[36rem]"
+          } overflow-y-scroll`}
+        >
           {renderProductCards()}
         </div>
       </div>

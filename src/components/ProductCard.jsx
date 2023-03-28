@@ -15,6 +15,13 @@ export default function ProductCard(props) {
       >
         <div className="flex justify-between"></div>
         <div className="text-center">
+          {!available && (
+            <div
+              className={`uppercase text-md mx-2 py-4 border rounded font-medium select-none ${availableClass}`}
+            >
+              Coming Soon
+            </div>
+          )}
           <span
             className={`uppercase text-xs mx-2 border rounded font-medium select-none ${availableClass}`}
           >
