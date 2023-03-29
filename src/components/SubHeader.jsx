@@ -23,11 +23,12 @@ export default function SubHeader() {
           <span className="text-lg my-2 uppercase dark:text-red-600 text-red-500 dark:bg-gray-100 bg-gray-700 px-4 rounded-full font-semibold">
             Flash Updates
           </span>
-          <marquee className="text-xl uppercase text-gray-700 dark:text-gray-100 my-2 font-semibold">
+          <div className="text-2xl uppercase w-full text-gray-700 dark:text-gray-100 my-2 font-semibold">
             <span className="mx-12">
-              <strong>Arduino Uno R3 Boards</strong> In Stock - Confirm Delivery
-              on <strong>Thursday (30th March 2023)</strong> | Order Now
+              <strong>Arduino Uno R3 Boards</strong> Restocked - Confirm
+              Delivery | Order Now
             </span>
+            <br />
             <span className="mx-12">
               <strong>IoT Component Vendors & Providers </strong>| Partner with
               us |{" "}
@@ -38,7 +39,7 @@ export default function SubHeader() {
                 Click Here
               </a>
             </span>
-          </marquee>
+          </div>
         </div>
       </div>
     </section>

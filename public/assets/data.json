@@ -1,5 +1,45 @@
 [
   {
+    "productName": "Arduino Uno",
+    "productPrice": 369,
+    "marketPrice": 559,
+    "productDetails": "ATmega328P microcontroller board.",
+    "productImage": "https://i0.wp.com/www.rytronics.in/wp-content/uploads/2023/01/Arduino-Uno-R3.webp?fit=800%2C750&ssl=1",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "HC05 Bluetooth Module",
+    "productPrice": 249,
+    "marketPrice": 400,
+    "productDetails": "Bluetooth wireless control module.",
+    "productImage": "https://marocproduits.com/storage/2019/08/module-bluetooth-serie-hc05-768x768.jpg",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "16X2 LCD Display",
+    "productPrice": 99,
+    "marketPrice": 200,
+    "productDetails": "Standard character LCD display.",
+    "productImage": "https://i1.wp.com/www.mytechnocare.com/wp-content/uploads/2016/08/1-LCD-16x2-162-2x16-Alphanumeric-DisplayJHD162A-MY-TechnoCare-www.mytechnocare.com-.jpg?fit=800%2C601&ssl=1",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "HC SR04 Ultrasonic Sensor",
+    "productPrice": 69,
+    "marketPrice": 130,
+    "productDetails": "Ultrasonic distance sensor.",
+    "productImage": "https://superbtech.in/wp-content/uploads/2020/07/2-60.jpg",
+    "availability": "TRUE"
+  },
+  {
+    "productName": "Arduino Uno Cable",
+    "productPrice": 49,
+    "marketPrice": 80,
+    "productDetails": "Arduino Uno cable for connection to devices.",
+    "productImage": "https://tse4.mm.bing.net/th?id=OIP.Es3wPRIFS1nP1nnJoC-J-QHaHa&pid=Api&P=0",
+    "availability": "TRUE"
+  },
+  {
     "productName": "NFR Module Transmitter/Reciever",
     "productPrice": 99,
     "marketPrice": 180,
@@ -85,7 +125,7 @@
     "marketPrice": 250,
     "productDetails": "Arduino-compatible motor control board.",
     "productImage": "https://images-na.ssl-images-amazon.com/images/I/71lW7ePZ2qL._AC_SL1006_.jpg",
-    "availability": "FALSE"
+    "availability": "TRUE"
   },
   {
     "productName": "RFID Sensor with Card and Tag",
@@ -101,14 +141,6 @@
     "marketPrice": 10,
     "productDetails": "Variable resistors for circuit control.",
     "productImage": "https://tse2.mm.bing.net/th?id=OIP.zHALvBnXVmE3pcu_-epgbwHaHa&pid=Api&P=0",
-    "availability": "TRUE"
-  },
-  {
-    "productName": "HC05 Bluetooth Module",
-    "productPrice": 249,
-    "marketPrice": 400,
-    "productDetails": "Bluetooth wireless control module.",
-    "productImage": "https://marocproduits.com/storage/2019/08/module-bluetooth-serie-hc05-768x768.jpg",
     "availability": "TRUE"
   },
   {
@@ -157,14 +189,6 @@
     "marketPrice": 200,
     "productDetails": "Infrared motion sensor.",
     "productImage": "https://www.eleccircuit.com/wp-content/uploads/2011/06/Infrared-PIR-Human-Motion-Sensor-Detector-Modules.jpg",
-    "availability": "TRUE"
-  },
-  {
-    "productName": "16X2 LCD Display",
-    "productPrice": 99,
-    "marketPrice": 200,
-    "productDetails": "Standard character LCD display.",
-    "productImage": "https://i1.wp.com/www.mytechnocare.com/wp-content/uploads/2016/08/1-LCD-16x2-162-2x16-Alphanumeric-DisplayJHD162A-MY-TechnoCare-www.mytechnocare.com-.jpg?fit=800%2C601&ssl=1",
     "availability": "TRUE"
   },
   {
@@ -224,14 +248,6 @@
     "availability": "TRUE"
   },
   {
-    "productName": "Arduino Uno",
-    "productPrice": 369,
-    "marketPrice": 559,
-    "productDetails": "ATmega328P microcontroller board.",
-    "productImage": "https://i0.wp.com/www.rytronics.in/wp-content/uploads/2023/01/Arduino-Uno-R3.webp?fit=800%2C750&ssl=1",
-    "availability": "FALSE"
-  },
-  {
     "productName": "Arduino Pro Mini Board",
     "productPrice": 449,
     "marketPrice": 799,
@@ -241,19 +257,11 @@
   },
   {
     "productName": "ESP Board Cable",
-    "productPrice": 69,
-    "marketPrice": 100,
+    "productPrice": 59,
+    "marketPrice": 80,
     "productDetails": "ESP cable for connection to devices.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.V8nrROMgctvLVDl80df3FgHaHa&pid=Api&P=0",
     "availability": "TRUE"
-  },
-  {
-    "productName": "Arduino Uno Cable",
-    "productPrice": 49,
-    "marketPrice": 80,
-    "productDetails": "Arduino Uno cable for connection to devices.",
-    "productImage": "https://tse4.mm.bing.net/th?id=OIP.Es3wPRIFS1nP1nnJoC-J-QHaHa&pid=Api&P=0",
-    "availability": "FALSE"
   },
   {
     "productName": "Breadboard Large",
@@ -408,14 +416,6 @@
     "availability": "FALSE"
   },
   {
-    "productName": "HC SR04 Ultrasonic Sensor",
-    "productPrice": 69,
-    "marketPrice": 130,
-    "productDetails": "Ultrasonic distance sensor.",
-    "productImage": "https://superbtech.in/wp-content/uploads/2020/07/2-60.jpg",
-    "availability": "TRUE"
-  },
-  {
     "productName": "Soil Moisture Sensor (Resistive)",
     "productPrice": 99,
     "marketPrice": 140,
@@ -461,7 +461,7 @@
     "marketPrice": 200,
     "productDetails": "Single output shaft motor.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/300-rpm-single-shaft-bo-motor-straight-400x400.jpg",
-    "availability": "FALSE"
+    "availability": "TRUE"
   },
   {
     "productName": "4x4 Keypad Module",
@@ -720,7 +720,7 @@
     "availability": "TRUE"
   },
   {
-    "productName": "DC Toy Motor",
+    "productName": "DC Toy Motor with Fan",
     "productPrice": 15,
     "marketPrice": 20,
     "productDetails": "Low voltage motor designed for toys and hobby projects.",
