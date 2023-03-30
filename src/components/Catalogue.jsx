@@ -69,6 +69,8 @@ export default function Catalogue(props) {
           </button>
         </div>
         <h6 className="block text-sm text-center text-gray-400">
+          Product Catalogue Updated Daily. New Stocks In
+          <br />
           *Products may vary from the images shown
         </h6>
         <div
