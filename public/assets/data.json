@@ -16,6 +16,14 @@
     "availability": "TRUE"
   },
   {
+    "productName": "Arduino Mega",
+    "productPrice": 869,
+    "marketPrice": 1599,
+    "productDetails": "Arduino Mega is a microcontroller board based on the ATmega 2560.",
+    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRyvPL3_htzA7XvjNMM7F42FOKe5inPx4X1KmqZU2CmwGkAmq_D3aTKW9rY4SCyvEUjXpXzq-c-1u8jDInAMlhVSTmY7WxVuN8ShIsWZYucIUieLJlTdpQw&usqp=CAE",
+    "availability": "TRUE"
+  },
+  {
     "productName": "16X2 LCD Display",
     "productPrice": 99,
     "marketPrice": 200,
@@ -109,7 +117,7 @@
     "marketPrice": 300,
     "productDetails": "Heart rate sensor for microcontroller.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.rOFSoR70K2k0ez14HrUbBAHaHa&pid=Api&P=0",
-    "availability": "FALSE"
+    "availability": "TRUE"
   },
   {
     "productName": "Joystick Module",
@@ -120,7 +128,7 @@
     "availability": "TRUE"
   },
   {
-    "productName": "Adafruit Motor Driver Shield",
+    "productName": "L293D Motor Driver Shield",
     "productPrice": 149,
     "marketPrice": 250,
     "productDetails": "Arduino-compatible motor control board.",
@@ -165,14 +173,6 @@
     "marketPrice": 200,
     "productDetails": "Temperature and humidity sensor.",
     "productImage": "https://tse4.mm.bing.net/th?id=OIP.mwe2zsoUeMsCCCoDf8MuggHaHa&pid=Api&P=0",
-    "availability": "TRUE"
-  },
-  {
-    "productName": "Arduino Mega",
-    "productPrice": 869,
-    "marketPrice": 1599,
-    "productDetails": "Arduino Mega is a microcontroller board based on the ATmega 2560.",
-    "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRyvPL3_htzA7XvjNMM7F42FOKe5inPx4X1KmqZU2CmwGkAmq_D3aTKW9rY4SCyvEUjXpXzq-c-1u8jDInAMlhVSTmY7WxVuN8ShIsWZYucIUieLJlTdpQw&usqp=CAE",
     "availability": "TRUE"
   },
   {
@@ -317,7 +317,7 @@
     "marketPrice": 250,
     "productDetails": "DC motor control board for robotics.",
     "productImage": "https://i0.wp.com/surtrtech.com/wp-content/uploads/2018/01/L298N-Motor-Drive-Controller-Board-Module-dual-H-Bridge-DC-Stepper-Motor-Driver-5.jpg?resize=1024%2C1024&ssl=1",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "LED",
@@ -373,7 +373,7 @@
     "marketPrice": 400,
     "productDetails": "Water pump for aquariums and hydroponics.",
     "productImage": "https://tse3.mm.bing.net/th?id=OIP.23Zv4L3eDEdtmE-z9wP3ggHaHa&pid=Api&P=0",
-    "availability": "FALSE"
+    "availability": "TRUE"
   },
   {
     "productName": "Stepdown Transformer",
@@ -405,7 +405,7 @@
     "marketPrice": 350,
     "productDetails": "Low-cost ATmega328P microcontroller board.",
     "productImage": "https://5.imimg.com/data5/VS/XC/MY-4167793/arduino-nano-500x500.jpg",
-    "availability": "FALSE"
+    "availability": "TRUE"
   },
   {
     "productName": "Raspberry Pi Camera 5MP",
@@ -421,7 +421,7 @@
     "marketPrice": 140,
     "productDetails": "Soil moisture sensor for irrigation.",
     "productImage": "https://5.imimg.com/data5/SELLER/Default/2021/10/EQ/MD/WH/53302641/soil-moisture-sensor-module-500x500.jpg",
-    "availability": "FALSE"
+    "availability": "TRUE"
   },
   {
     "productName": "Buzzer",
@@ -445,15 +445,15 @@
     "marketPrice": 260,
     "productDetails": "High-power device control module.",
     "productImage": "https://5.imimg.com/data5/BE/HW/MY-41573657/4-channel-5v-relay-board-500x500.jpg",
-    "availability": "FALSE"
+    "availability": "TRUE"
   },
   {
-    "productName": "Car Chassis 4WD with Wheels",
-    "productPrice": 449,
-    "marketPrice": 700,
+    "productName": "Car Chassis 3WD with Wheels",
+    "productPrice": 349,
+    "marketPrice": 600,
     "productDetails": "Four-wheel robot framework.",
     "productImage": "https://tse1.mm.bing.net/th?id=OIP.imHlW8xFC2IYRJOO_g5vbwHaHa&pid=Api&P=0",
-    "availability": "FALSE"
+    "availability": "TRUE"
   },
   {
     "productName": "BO Motor Single Shaft",
@@ -477,7 +477,7 @@
     "marketPrice": 180,
     "productDetails": "Gas sensor for air quality monitoring.",
     "productImage": "https://robu.in/wp-content/uploads/2022/02/mq-2-gas-sensor-2_5.jpg",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "LM317PSU Board",
@@ -541,7 +541,7 @@
     "marketPrice": 949,
     "productDetails": "Rechargeable battery for drones.",
     "productImage": "https://roboticsdna.in/wp-content/uploads/2019/12/x3s.jpg.pagespeed.ic.I832yPF1Xc.webp",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "Li-Ion Battery 7.1v",
@@ -573,7 +573,7 @@
     "marketPrice": 449,
     "productDetails": "AC-DC converter for 12V devices.",
     "productImage": "https://www.electronicscomp.com/image/cache/catalog/12v-1a-dc-power-adapter-india-800x800.jpg",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "20V Adapter",
@@ -685,7 +685,7 @@
     "marketPrice": 64,
     "productDetails": "A two-channel relay module switching AC/DC loads up to 10A at 120VAC or 24VDC.",
     "productImage": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSwdbePKBOIM4T1QJyvfxhLFlx6Of6cnJSy_rGMAYVHut9X3HZsAHFrh64DmoxdR09W0PFXjrswBIJTVr3r2FhXIM0zy1OfN9FJT35PN4gcSmEY7Nupqmj0A&usqp=CAE",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "Single Channel relay module",
@@ -725,22 +725,22 @@
     "marketPrice": 20,
     "productDetails": "Low voltage motor designed for toys and hobby projects.",
     "productImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7j54KUTpeuMR8eYbF_AND21cfEu3BkVlOm08E-Jx4P3_QyA0WTk0-Wq_7cnaRWA_0CLFik_ARlJYG3mgvroKiSJY52C-s&usqp=CAE",
-    "availability": "TRUE"
+    "availability": "FALSE"
   },
   {
     "productName": "DHT22",
-    "productPrice": "",
-    "marketPrice": "",
+    "productPrice": 119,
+    "marketPrice": 220,
     "productDetails": "Digital sensor measuring ambient temperature and relative humidity accurately.",
     "productImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNBo0HKotBrT5n1pESWT4t1TCSGZ-s60H9JIk9W5ILe64vVO_OVa_w74ptFhWMZAsxmk1_OBKYydP8IgvlA0iYb_GqZBO6rl3QAh4KgglKYxkpK1iG5FgAbdw&usqp=CAE",
     "availability": "TRUE"
   },
   {
     "productName": "Flex Sensor",
-    "productPrice": "",
-    "marketPrice": "",
-    "productDetails": "",
-    "productImage": "",
-    "availability": ""
+    "productPrice": 169,
+    "marketPrice": 350,
+    "productDetails": "measures the amount of deflection or bending",
+    "productImage": "https://cdn.shopify.com/s/files/1/0088/0056/7392/products/FlexMakerBazar1.png?v=1626951992",
+    "availability": "TRUE"
   }
 ]

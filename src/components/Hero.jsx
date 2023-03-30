@@ -10,7 +10,7 @@ export default function Hero() {
             Empowering <span className="text-orange-400">PES</span>ites with
             Tech on Demand
           </h1>
-          <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 text-md md:text-xl my-10 lg:text-xl dark:text-gray-300">
+          <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 text-md md:text-xl my-6 lg:text-xl dark:text-gray-300">
             We have a wide range of{" "}
             <span className="text-emerald-500 font-semibold">IoT</span>{" "}
             components from sensors and Arduino boards to wireless modules and
