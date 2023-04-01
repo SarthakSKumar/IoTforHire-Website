@@ -1,11 +1,15 @@
 # IoTforRent-Website 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/Sohoxic/IoTforHire-Website/blob/master/public/assets/img/poster.jpg">
+  <img align="right" top="500" height="300" width="300" alt="POSTER" src="https://github.com/Sohoxic/IoTforHire-Website/blob/master/public/assets/img/poster.jpg">
 </a>
-🌐 Official repository for the IoTforRent Website 💻 📱. Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included. 🛒 Contributions welcome!
+🌐 Official repository for the IoTforRent Website 💻 📱. 
+<br>
+<br>Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included.
+<br>
+<br>
 
-We are pleased to help the student community in our college networking with all IoT enthusiasts around us.
+We are pleased to **help the student community** in our college networking with all IoT enthusiasts around us.
 
 For our fellow `second-year` peeps tired and struggling to find reliable and pocket-friendly *IoT components* for their *MPCA projects* spending alot of time going around shops in SP Road and coming up with faulty components. Here's the repository catering to the needs of 100's of students in our college.
 
@@ -19,4 +23,8 @@ You have the option to:
 We go by the slogan: 
 > Make the smart choice, start building today with *IoT-for-Hire* today! 💪
 
+### Developed by:
+<a href="https://github.com/SarthakSKumar/IoTforHire-Website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SarthakSKumar/IoTforHire-Website" />
+</a>
 
