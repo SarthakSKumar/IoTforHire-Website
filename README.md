@@ -1,5 +1,8 @@
-# IoTforRent-Website
+# IoTforRent-Website 
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/Sohoxic/IoTforHire-Website/blob/master/public/assets/img/poster.jpg">
+</a>
 🌐 Official repository for the IoTforRent Website 💻 📱. Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included. 🛒 Contributions welcome!
 
 We are pleased to help the student community in our college networking with all IoT enthusiasts around us.
