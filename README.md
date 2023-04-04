@@ -1,17 +1,10 @@
 # IoTforRent-Website
 
-<<<<<<< HEAD:client/README.md
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="POSTER" src="https://github.com/Sohoxic/IoTforHire-Website/blob/master/public/assets/img/poster.jpg">
 </a>
-🌐 Official repository for the IoTforRent Website 💻 📱. 
-<br>
-<br>Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included.
-<br>
-<br>
-=======
 🌐 Official repository for the IoTforRent Website 💻 📱. Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included. 🛒 Contributions welcome!
->>>>>>> parent of d74ab48 (Update README.md):README.md
+<br>
 
 We are pleased to **help the student community** in our college networking with all IoT enthusiasts around us.
 
@@ -27,6 +20,7 @@ You have the option to:
 We go by the slogan: 
 > Make the smart choice, start building today with *IoT-for-Hire* today! 💪
 
+### Order Now at <a href="https://iotforhire.vercel.app">iotforhire.vercel.app</a>
 ### Developed by:
 <a href="https://github.com/SarthakSKumar/IoTforHire-Website/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SarthakSKumar/IoTforHire-Website" />
