@@ -14,7 +14,7 @@ import "./App.css";
 function App() {
   const [products, setProducts] = useState("");
   const fetchData = () => {
-    fetch("./assets/data.json")
+    fetch("https://iotforhire-backend-exp.vercel.app/")
       .then((response) => {
         return response.json();
       })
