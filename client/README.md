@@ -1,4 +1,4 @@
-# IoTforRent-Website 
+# IoTforRent-Website
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="POSTER" src="https://github.com/Sohoxic/IoTforHire-Website/blob/master/public/assets/img/poster.jpg">
