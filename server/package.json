@@ -1,0 +1,21 @@
+{
+  "name": "iotforhire-server",
+  "version": "1.0.0",
+  "description": "Express Server for Vite App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarthakSKumar/IoTforHire-Website.git"
+  },
+  "author": "Sarthak S Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarthakSKumar/IoTforHire-Website/issues"
+  },
+  "homepage": "https://github.com/SarthakSKumar/IoTforHire-Website#readme"
+}
