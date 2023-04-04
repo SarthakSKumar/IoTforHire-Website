@@ -1,24 +1,26 @@
-# IoTforRent-Website
+# IoTforHire-Website
 
-<<<<<<< HEAD:client/README.md
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="POSTER" src="https://github.com/Sohoxic/IoTforHire-Website/blob/master/public/assets/img/poster.jpg">
-</a>
+  <img align="right" top="500" height="300" width="300" alt="POSTER" src="./public/assets/img/poster.jpg">
 🌐 Official repository for the IoTforRent Website 💻 📱. 
 <br>
-<br>Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included.
+Rent IoT components on short/long-term basis. 
+<br>
+Catalog, ordering system, FAQs, and blog included.
+<br>
+We are pleased to help the student community in our college networking
+<br>
+with all IoT enthusiasts around us.
+
+For our fellow second-year peeps tired and struggling to find reliable and pocket-friendly <br>
+*IoT components* for their *MPCA projects* spending alot of time going around shops in SP Road<br>
+ and coming up with faulty components. Here's the repository catering to the needs of <br>
+ 100's of students in our college.
+
+Look no further *IoT-for-Hire* – is here 💡 exclusively for the student community bringing together IoT enthusiasts who want to rent their components and provide valuable knowledge to those in need!<br>
+ Our site provides an interface to connect IoT enthusiasts with non-enthusiasts allowing them <br>
+ to connect to an overwhelming IoT community out there wanting to help people.
 <br>
 <br>
-=======
-🌐 Official repository for the IoTforRent Website 💻 📱. Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included. 🛒 Contributions welcome!
->>>>>>> parent of d74ab48 (Update README.md):README.md
-
-We are pleased to **help the student community** in our college networking with all IoT enthusiasts around us.
-
-For our fellow `second-year` peeps tired and struggling to find reliable and pocket-friendly *IoT components* for their *MPCA projects* spending alot of time going around shops in SP Road and coming up with faulty components. Here's the repository catering to the needs of 100's of students in our college.
-
-Look no further *IoT-for-Hire* – is here 💡 exclusively for the student community bringing together IoT enthusiasts who want to rent their components and provide valuable knowledge to those in need! Our site provides an interface to connect IoT enthusiasts with non-enthusiasts allowing them to connect to an overwhelming IoT community out there wanting to help people.
-
 The site has a huge catalogue of tested components to meet all the needs of second year fellows in our college. 
 You have the option to:
 - Choose your components 
