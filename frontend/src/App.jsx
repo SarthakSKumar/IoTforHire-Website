@@ -13,6 +13,7 @@ import "./App.css";
 // Make sure to bind modal to your appElement (https://reactcommunity.org/react-modal/accessibility/)
 function App() {
   const [products, setProducts] = useState("");
+  const [loading, setLoading] = useState(true);
   const fetchData = () => {
     fetch("https://iotforhire-backend-exp.vercel.app/")
       .then((response) => {
@@ -20,6 +21,10 @@ function App() {
       })
       .then((data) => {
         setProducts(data);
+        setLoading(false);
+      })
+      .then((err) => {
+        console.log(err);
       });
   };
 
@@ -33,7 +38,7 @@ function App() {
       <Hero />
       <SubHeader />
       <About />
-      {products && <Catalogue productData={products} />}
+      {<Catalogue productData={products} loading={loading} />}
       <FAQ />
       <Contact />
       <Footer />

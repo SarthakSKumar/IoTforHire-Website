@@ -69,17 +69,18 @@ export default function Catalogue(props) {
           </button>
         </div>
         <h6 className="block text-sm text-center text-gray-400">
-          Product Catalogue Updated Daily. New Stocks In
-          <br />
-          *Products may vary from the images shown
+          Product Catalogue Updated Daily - Products may vary from the images
+          shown
         </h6>
-        <div
-          className={`flex my-10 bg-white border-2 border-emerald-500 dark:bg-gray-800 p-4 rounded-lg justify-around flex-wrap ${
-            searchQuery ? "h-fit" : "h-[36rem]"
-          } overflow-y-scroll`}
-        >
-          {renderProductCards()}
-        </div>
+        {!props.loading && (
+          <div
+            className={`flex my-10 bg-white border-2 border-emerald-500 dark:bg-gray-800 p-4 rounded-lg justify-around flex-wrap ${
+              searchQuery ? "h-fit" : "h-[36rem]"
+            } overflow-y-scroll`}
+          >
+            {renderProductCards()}
+          </div>
+        )}
       </div>
     </section>
   );

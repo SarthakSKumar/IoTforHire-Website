@@ -1,16 +1,16 @@
 export default function Hero() {
   return (
     <section className="bg-white dark:bg-gray-900 ">
-      <div className="grid max-w-screen-xl px-4 pb-2 mx-auto xl:gap-0 pt-0 lg:pt-4 lg:pb-6 lg:grid-cols-12">
+      <div className="grid max-w-screen-xl px-4 pb-2 mx-auto xl:gap-0 pt-0 lg:pt-10 lg:pb-8 lg:grid-cols-12">
         <div className="mr-auto place-self-center lg:col-span-7 my-12">
           <h1 className="max-w-2xl mb-4 text-5xl font-bold leading-none tracking-tight md:text-7xl xl:text-7xl dark:text-white">
             IoT<span className="text-emerald-500">for</span>Hire
           </h1>
-          <h1 className="max-w-2xl mb-4 text-3xl font-bold leading-none tracking-tight md:text-5xl xl:text-6xl  dark:text-gray-300">
+          <h1 className="max-w-2xl mb-6 text-3xl font-bold leading-none tracking-tight md:text-5xl xl:text-6xl  dark:text-gray-300">
             Empowering <span className="text-orange-400">PES</span>ites with
             Tech on Demand
           </h1>
-          <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 text-md md:text-xl my-6 lg:text-xl dark:text-gray-300">
+          <p className="max-w-2xl mb-6 text-gray-500 lg:mb-10  text-md md:text-xl my-8 lg:text-xl dark:text-gray-300">
             We have a wide range of{" "}
             <span className="text-emerald-500 font-semibold">IoT</span>{" "}
             components from sensors and Arduino boards to wireless modules and
