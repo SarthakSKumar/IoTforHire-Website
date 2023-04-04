@@ -1,5 +1,6 @@
 # IoTforRent-Website
 
+<<<<<<< HEAD:client/README.md
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="POSTER" src="https://github.com/Sohoxic/IoTforHire-Website/blob/master/public/assets/img/poster.jpg">
 </a>
@@ -8,6 +9,9 @@
 <br>Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included.
 <br>
 <br>
+=======
+🌐 Official repository for the IoTforRent Website 💻 📱. Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included. 🛒 Contributions welcome!
+>>>>>>> parent of d74ab48 (Update README.md):README.md
 
 We are pleased to **help the student community** in our college networking with all IoT enthusiasts around us.
 
