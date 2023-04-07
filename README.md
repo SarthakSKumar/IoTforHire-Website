@@ -1,7 +1,7 @@
 # IoTforRent-Website
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="POSTER" src="https://github.com/Sohoxic/IoTforHire-Website/blob/master/public/assets/img/poster.jpg">
+  <img align="right" top="500" height="300" width="300" alt="POSTER" src="https://github.com/its-abhishek/IoTforHire-Website/blob/b21f459f3bf0488d613806a3579351b346636614/frontend/public/assets/img/poster.jpg">
 </a>
 🌐 Official repository for the IoTforHire Website 💻 📱. Rent IoT components on short/long-term basis. Catalog, ordering system, FAQs, and blog included. 🛒 
 <br>
