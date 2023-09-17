@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import Header from "./components/header.jsx";
 import Hero from "./components/Hero.jsx";
-import SubHeader from "./components/SubHeader.jsx";
 import Catalogue from "./components/Catalogue.jsx";
 import About from "./components/About.jsx";
 import FAQ from "./components/FAQ.jsx";
@@ -36,7 +35,6 @@ function App() {
       <Order />
       <Header />
       <Hero />
-      <SubHeader />
       <About />
       {<Catalogue productData={products} loading={loading} />}
       <FAQ />

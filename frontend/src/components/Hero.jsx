@@ -1,8 +1,8 @@
 export default function Hero() {
   return (
-    <section className="bg-white dark:bg-gray-900 ">
-      <div className="grid max-w-screen-xl px-4 pb-2 mx-auto xl:gap-0 pt-0 lg:pt-10 lg:pb-8 lg:grid-cols-12">
-        <div className="mr-auto place-self-center lg:col-span-7 my-12">
+    <section className="bg-white dark:bg-gray-900 flex flex-col justify-center items-center min-h-screen relative">
+    <div className="grid max-w-screen-xl px-4 pb-2 mx-auto xl:gap-0 pt-0 lg:pt-0 lg:pb-8 lg:grid-cols-12">
+      <div className="mr-auto place-self-center lg:col-span-7 my-12">
           <h1 className="max-w-2xl mb-4 text-5xl font-bold leading-none tracking-tight md:text-7xl xl:text-7xl dark:text-white">
             IoT<span className="text-emerald-500">for</span>Hire
           </h1>
@@ -39,6 +39,26 @@ export default function Hero() {
           <img src="./assets/img/hero-image.PNG" alt="hero image" />
         </div>
       </div>
+      <section className="bg-white dark:bg-gray-900 -z-1">
+        <div className="max-w-screen-xl px-4 py-24 mx-auto">
+          <div className="w-full text-center">
+            <h1 className="lg:text-[1.7rem] md:text-xl text-lg text-gray-500 dark:text-gray-400 font-bold">
+              <span className="dark:text-emerald-400 text-emerald-500">
+                IoT Components
+              </span>{" "}
+              Rentals for Students of{" "}
+              <span className="dark:text-orange-300 text-orange-400">
+                PES University
+              </span>{" "}
+              |{" "}
+              <span className="dark:text-purple-300 text-purple-500">
+                100% Working
+              </span>{" "}
+              and Trusted Components
+            </h1>
+          </div>
+        </div>
+      </section>
     </section>
   );
 }
