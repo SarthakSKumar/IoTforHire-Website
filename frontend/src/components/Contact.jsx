@@ -42,7 +42,7 @@ export default function Contact() {
               <i className="md:text-4xl md:px-1 md:pb-1 text-3xl md:pr-3 sm:pr-1 text-emerald-600 dark:text-emerald-400 uil uil-envelope-check"></i>
 
               <span className="text-md mx-2 font-semibold text-gray-700 dark:text-gray-300">
-                sskworld9742@gmail.com
+                sarthakskumar7@gmail.com
               </span>
             </div>
             <div className="flex w-full">
