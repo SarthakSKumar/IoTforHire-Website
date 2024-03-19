@@ -79,6 +79,16 @@ export default function Catalogue(props) {
             } overflow-y-scroll`}
           >
             {renderProductCards()}
+            <ProductCard
+              key={"Arduino Uno"}
+              available={true}
+              productImage={`xyz`}
+              productName={"Arduino Uno"}
+              productPrice={"399"}
+              marketPrice={"599"}
+              productDetails={"Arduino Uno"}
+              simpleName={"Uno"}
+            />
           </div>
         )}
       </div>
