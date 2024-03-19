@@ -1,25 +1,33 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 
 export default function Sale() {
-  const [products, setProducts] = useState("");
-  const [loading, setLoading] = useState(true);
-  const fetchData = () => {
-    fetch("https://iotforhire-backend-exp.vercel.app/")
-      .then((response) => {
-        return response.json();
-      })
-      .then((data) => {
-        setProducts(data);
-        setLoading(false);
-      })
-      .then((err) => {
-        console.log(err);
-      });
-  };
+  const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
+
+  function calculateTimeLeft() {
+    const targetDate = new Date("March 20, 2024 15:00:00").getTime();
+    const now = new Date().getTime();
+    const difference = targetDate - now;
+
+    if (difference <= 0) {
+      return { hours: 0, minutes: 0, seconds: 0 };
+    }
+
+    const hours = Math.floor(
+      (difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+    );
+    const minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((difference % (1000 * 60)) / 1000);
+
+    return { hours, minutes, seconds };
+  }
 
   useEffect(() => {
-    fetchData();
-  }, []);
+    const timer = setTimeout(() => {
+      setTimeLeft(calculateTimeLeft());
+    }, 1000);
+
+    return () => clearTimeout(timer);
+  });
 
   return (
     <div className="App">
@@ -37,8 +45,7 @@ export default function Sale() {
           </p>
           <ol className="list-decimal pl-6 mb-6 font-medium text-lg">
             <li className="text-gray-800">
-              Fill the form to order, pay via cash/ UPI on delivery 💰 Link:
-              https://forms.gle/9VGDwmbqjqvWax5U6
+              Fill the form to order, pay via cash/ UPI on delivery 💰
             </li>
             <li className="text-gray-800">
               Pick up your Unos on the next day - CIE room in the short break 👍
@@ -49,6 +56,17 @@ export default function Sale() {
             <br />
             Get started with your MPCA project today with IoTforHire! 🥳
           </p>
+
+          <p className="text-3xl font-bold text-center text-gray-700 mb-4">
+            Countdown to Sale:
+          </p>
+          <div className="flex justify-center mb-8">
+            <div className="flex items-center justify-center bg-gray-200 rounded-lg p-4">
+              <div className="text-4xl sm:text-5xl font-bold mr-2">
+                {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s
+              </div>
+            </div>
+          </div>
 
           <p className="text-3xl font-bold text-center text-gray-700 mb-8">
             When:{" "}
