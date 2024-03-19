@@ -37,7 +37,8 @@ export default function Sale() {
           </p>
           <ol className="list-decimal pl-6 mb-6 font-medium text-lg">
             <li className="text-gray-800">
-              Fill the form to order, pay via cash/ UPI on delivery 💰
+              Fill the form to order, pay via cash/ UPI on delivery 💰 Link:
+              https://forms.gle/9VGDwmbqjqvWax5U6
             </li>
             <li className="text-gray-800">
               Pick up your Unos on the next day - CIE room in the short break 👍
