@@ -8,6 +8,11 @@ export default function Header() {
         id="home"
         className=" bg-white border-gray-200 py-2.5 dark:bg-gray-900"
       >
+        <div className="bg-red-500 mb-2.5">
+          <marquee className="text-white uppercase font-bold text-sm">
+            We are not operating currently. Sorry for the inconvenience.
+          </marquee>
+        </div>
         <div className="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
           <a href="#home" className="flex items-center">
             <span className="self-center text-2xl mr-4 font-semibold whitespace-nowrap dark:text-white text-black">

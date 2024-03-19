@@ -32,37 +32,46 @@ export default function Sale() {
   return (
     <div className="App">
       <div className="bg-gray-100 min-h-screen flex justify-center items-center">
-        <div className="max-w-4xl mx-auto p-8 bg-white shadow-md rounded-lg">
-          <h1 className="text-5xl font-bold text-center mb-6 text-slate-800">
-            🚀 IoTforHire Flash Sale! 🚀
+        <div className="max-w-4xl mx-auto p-6 bg-white shadow-md rounded-lg">
+          <a href="/" className="items-center w-full flex justify-center">
+            <span className="self-center text-6xl mr-4 font-semibold whitespace-nowrap text-black">
+              IoT<span className="text-emerald-500">for</span>Hire
+            </span>
+          </a>
+          <h1 className="text-5xl mt-4 font-bold text-center mb-6 text-slate-800">
+            🚀 Flash Sale! 🚀
           </h1>
-          <p className="text-2xl text-center text-gray-700 mb-8 font-semibold">
+          <p className="text-2xl text-center text-gray-700 mb-6 font-semibold">
             This time with a <span className="text-yellow-700">FLASH SALE</span>{" "}
             - <span className="text-green-700">35% off on Arduino Unos</span> 🥳
           </p>
-          <p className="text-2xl text-center text-gray-700 mb-6 font-bold">
+          <p className="text-2xl text-center text-gray-700 mb-4 font-bold">
             How to buy? 🤔
           </p>
           <ol className="list-decimal pl-6 mb-6 font-medium text-lg">
             <li className="text-gray-800">
               Fill the form to order, pay via cash/ UPI on delivery 💰
               <br />
-              <a className="underline text-blue-600"href="https://forms.gle/9VGDwmbqjqvWax5U6">
-                Fill the form here
+              <a
+                className="underline text-gray-600"
+                // href="https://forms.gle/9VGDwmbqjqvWax5U6"
+                href="#"
+              >
+                Form available at 3:00PM, 20th March 2024
               </a>
             </li>
             <li className="text-gray-800">
               Pick up your Unos on the next day - CIE room in the short break 👍
             </li>
           </ol>
-          <p className="text-2xl font-bold text-center text-gray-700 mb-8">
+          <p className="text-2xl font-bold text-center text-gray-700 mb-7">
             It's that simple!
             <br />
             Get started with your MPCA project today with IoTforHire! 🥳
           </p>
 
           <p className="text-3xl font-bold text-center text-gray-700 mb-4">
-            Countdown to Sale:
+            Countdown to Sale
           </p>
           <div className="flex justify-center mb-8">
             <div className="flex items-center justify-center bg-gray-200 rounded-lg p-4">
@@ -72,7 +81,7 @@ export default function Sale() {
             </div>
           </div>
 
-          <p className="text-3xl font-bold text-center text-gray-700 mb-8">
+          <p className="text-3xl font-bold text-center text-gray-700 mb-1">
             When:{" "}
             <span className="text-red-600">
               3PM-4PM Wednesday, 20th March 2024 only
