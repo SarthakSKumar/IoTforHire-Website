@@ -4,21 +4,21 @@ export default function Sale() {
   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
 
   function calculateTimeLeft() {
-    const targetDate = new Date("March 20, 2024 15:00:00").getTime();
+    const targetDate = new Date("March 21, 2024 13:45:00").getTime();
     const now = new Date().getTime();
     const difference = targetDate - now;
 
     if (difference <= 0) {
       return { hours: 0, minutes: 0, seconds: 0 };
     }
-
+    const days = Math.floor(difference / (1000 * 60 * 60 * 24));
     const hours = Math.floor(
       (difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
     );
     const minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
     const seconds = Math.floor((difference % (1000 * 60)) / 1000);
 
-    return { hours, minutes, seconds };
+    return { days, hours, minutes, seconds };
   }
 
   useEffect(() => {
@@ -57,7 +57,7 @@ export default function Sale() {
                 // href="https://forms.gle/9VGDwmbqjqvWax5U6"
                 href="#"
               >
-                Form available at 3:00PM, 20th March 2024
+                Form available at 1:45PM, 21th March 2024
               </a>
             </li>
             <li className="text-gray-800">
@@ -76,7 +76,8 @@ export default function Sale() {
           <div className="flex justify-center mb-8">
             <div className="flex items-center justify-center bg-gray-200 rounded-lg p-4">
               <div className="text-4xl sm:text-5xl font-bold mr-2">
-                {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s
+                {timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m{" "}
+                {timeLeft.seconds}s
               </div>
             </div>
           </div>
@@ -84,7 +85,7 @@ export default function Sale() {
           <p className="text-3xl font-bold text-center text-gray-700 mb-1">
             When:{" "}
             <span className="text-red-600">
-              3PM-4PM Wednesday, 20th March 2024 only
+              1:45PM-2:30PM Thursday, 21th March 2024 only
             </span>{" "}
             🗓️
           </p>
