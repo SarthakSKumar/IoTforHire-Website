@@ -54,10 +54,10 @@ export default function Sale() {
               <br />
               <a
                 className="underline text-gray-600"
-                // href="https://forms.gle/9VGDwmbqjqvWax5U6"
-                href="#"
+              href="https://forms.gle/vtGBBKoQ6PUD61vA9"
+              
               >
-                Form available at 1:45PM, 21th March 2024
+                Fill the form here
               </a>
             </li>
             <li className="text-gray-800">
